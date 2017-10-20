@@ -46,11 +46,11 @@ def formatFlightDate(strDate):
 
     return formatdate
 
-def formatDate(strDate):
-    split = re.findall('\d+', strDate)
-    strDate = split[1]+"/"+split[0]+"/"+split[2]
-    formatdate = datetime.datetime.strptime(strDate,'%m/%d/%Y').strftime('%Y.%m.%d')
-
-    return formatdate
+# def formatDate(strDate):
+#     split = re.findall('\d+', strDate)
+#     strDate = split[1]+"/"+split[0]+"/"+split[2]
+#     formatdate = datetime.datetime.strptime(strDate,'%m/%d/%Y').strftime('%Y.%m.%d')
+#
+#     return formatdate
 
 
