@@ -1,0 +1,856 @@
+LAS Vegas, LAS, http://en.wikipedia.org/wiki/McCarran_International_Airport
+La, LAX-Los Angeles Intl., http://en.wikipedia.org/wiki/Sahnewal_Airport
+Sahnewal, LUH, http://en.wikipedia.org/wiki/Sahnewal_Airport
+Solapur, SSE, http://en.wikipedia.org/wiki/Solapur_Airport
+Birsa Munda, IXR, http://en.wikipedia.org/wiki/Birsa_Munda_Airport
+Ahwaz, AWZ, http://en.wikipedia.org/wiki/Ahwaz_Airport
+Gwalior, GWL, http://en.wikipedia.org/wiki/Gwalior_Airport
+Hodeidah Int'l, HOD, http://en.wikipedia.org/wiki/Hodeida_International_Airport
+Devi Ahilyabai Holkar Int'l, IDR, http://en.wikipedia.org/wiki/Devi_Ahilyabai_Holkar_International_Airport
+Gandhinagar, ISK, http://en.wikipedia.org/wiki/Gandhinagar_Airport
+Chandigarh Int'l, IXC, http://en.wikipedia.org/wiki/Chandigarh_Airport
+Aurangabad, IXU, http://en.wikipedia.org/wiki/Aurangabad_Airport
+Faisalabad Int'l, LYP, http://en.wikipedia.org/wiki/Faisalabad_International_Airport
+Omsk Tsentralny, OMS, http://en.wikipedia.org/wiki/Omsk_Tsentralny_Airport
+Novosibirsk Tolmachev, OVB, http://en.wikipedia.org/wiki/Tolmachevo_Airport
+Zaporozhye Int'l, OZH, http://en.wikipedia.org/wiki/Zaporizhia_International_Airport
+Simpang Tiga, PKU, http://en.wikipedia.org/wiki/Sultan_Syarif_Qasim_II_International_Airport
+Rota Int'l, ROP, http://en.wikipedia.org/wiki/Rota_International_Airport
+Surgut, SGC, http://en.wikipedia.org/wiki/Surgut_Airport
+Tiruchirappalli, TRZ, http://en.wikipedia.org/wiki/Tiruchirappalli_Airport
+Turbat Int'l, TUK, http://en.wikipedia.org/wiki/Turbat_International_Airport
+Quetta Int'l, UET, http://en.wikipedia.org/wiki/Quetta_International_Airport
+Zahedan Int'l, ZAH, http://en.wikipedia.org/wiki/Zahedan_International_Airport
+Abdul Rachman Saleh, MLG, http://en.wikipedia.org/wiki/Abdul_Rachman_Saleh_Airport
+Barnaul, BAX, http://en.wikipedia.org/wiki/Barnaul_Airport
+Adampur, NULL, NULL
+Bareilly, NULL, http://en.wikipedia.org/wiki/Bareilly_Airport
+Dhamial, NULL, http://en.wikipedia.org/wiki/Dhamial_Army_Airbase
+Cheongju Int'l, CJJ, http://en.wikipedia.org/wiki/Cheongju_International_Airport
+Gwangju, KWJ, http://en.wikipedia.org/wiki/Gwangju_Airport
+Daegu Int'l, TAE, http://en.wikipedia.org/wiki/Daegu_Airport
+Ulsan, USN, http://en.wikipedia.org/wiki/Ulsan_Airport
+Radin Inten II, TKG, http://en.wikipedia.org/wiki/Radin_Inten_II_Airport
+Allahabad, IXD, http://en.wikipedia.org/wiki/Allahabad_Airport
+Chelyabinsk, CEK, http://en.wikipedia.org/wiki/Chelyabinsk_Airport
+Tainan, TNN, http://en.wikipedia.org/wiki/Tainan_Airport
+Taichung, RMQ, http://en.wikipedia.org/wiki/Taichung_Airport
+Rotterdam The Hague, RTM, http://en.wikipedia.org/wiki/Rotterdam_The_Hague_Airport
+Voronezh-Chertovitskoye, VOZ, http://en.wikipedia.org/wiki/Voronezh_International_Airport
+Liverpool John Lennon, LPL, http://en.wikipedia.org/wiki/Liverpool_John_Lennon_Airport
+Vishakapatnam, VTZ, http://en.wikipedia.org/wiki/Visakhapatnam_Airport
+Sultan Hasanuddin Int'l, UPG, http://en.wikipedia.org/wiki/Sultan_Hasanuddin_International_Airport
+Vava'u Int'l, VAV, http://en.wikipedia.org/wiki/Vava'u_International_Airport
+Newcastle Int'l, NCL, http://en.wikipedia.org/wiki/Newcastle_Airport
+Goloson Int'l, LCE, http://en.wikipedia.org/wiki/Golos%C3%B3n_International_Airport
+Madinah Int'l, MED, http://en.wikipedia.org/wiki/Prince_Mohammad_Bin_Abdulaziz_Airport
+Mirabel Int'l, YMX, http://en.wikipedia.org/wiki/Montr%C3%A9al-Mirabel_International_Airport
+Palanga Int'l, PLQ, http://en.wikipedia.org/wiki/Palanga_International_Airport
+Jaipur Int'l, JAI, http://en.wikipedia.org/wiki/Jaipur_International_Airport
+Sonari, IXW, http://en.wikipedia.org/wiki/Sonari_Airport
+Yenisehir, YEI, http://en.wikipedia.org/wiki/Yeni%C5%9Fehir_Airport
+Sakirpasa, ADA, http://en.wikipedia.org/wiki/Adana_%C5%9Eakirpa%C5%9Fa_Airport
+Kodiak, ADQ, http://en.wikipedia.org/wiki/Kodiak_Airport
+Amarillo Int'l, AMA, http://en.wikipedia.org/wiki/Rick_Husband_Amarillo_International_Airport
+Alice Springs, ASP, http://en.wikipedia.org/wiki/Alice_Springs_Airport
+Raja Sansi Int'l, ATQ, http://en.wikipedia.org/wiki/Raja_Sansi_International_Airport
+Biju Patnaik, BBI, http://en.wikipedia.org/wiki/Biju_Patnaik_Airport
+Bethel, BET, http://en.wikipedia.org/wiki/Bethel_Airport
+Palonegro, BGA, http://en.wikipedia.org/wiki/Palonegro_International_Airport
+Birmingham Int'l, BHM, http://en.wikipedia.org/wiki/Birmingham_International_Airport_(US)
+Broken Hill, BHQ, http://en.wikipedia.org/wiki/Broken_Hill_Airport
+Logan Int'l, BIL, http://en.wikipedia.org/wiki/Billings_Logan_International_Airport
+Bismarck Muni., BIS, http://en.wikipedia.org/wiki/Bismarck_Municipal_Airport
+Del Bajio Int'l, BJX, http://en.wikipedia.org/wiki/Del_Baj%C3%ADo_International_Airport
+Benin, BNI, http://en.wikipedia.org/wiki/Benin_Airport
+Bourgas, BOJ, http://en.wikipedia.org/wiki/Burgas_Airport
+Bremen, BRE, http://en.wikipedia.org/wiki/Bremen_Airport
+Jacinto Lara Int'l, BRM, http://en.wikipedia.org/wiki/Jacinto_Lara_International_Airport
+Brownsville-South Padre Island Int'l, BRO, http://en.wikipedia.org/wiki/Brownsville/South_Padre_Island_International_Airport
+Bristol Int'l, BRS, http://en.wikipedia.org/wiki/Bristol_International_Airport
+Baton Rouge Metro, BTR, http://en.wikipedia.org/wiki/Baton_Rouge_Metropolitan_Airport
+Bratislava-M.R. Stefanik, BTS, http://en.wikipedia.org/wiki/M._R._%C5%A0tef%C3%A1nik_Airport
+Burlington Int'l, BTV, http://en.wikipedia.org/wiki/Burlington_International_Airport
+Columbia Metro, CAE, http://en.wikipedia.org/wiki/Columbia_Metropolitan_Airport
+Calicut Int'l, CCJ, http://en.wikipedia.org/wiki/Calicut_International_Airport
+Cocos (Keeling) Islands, CCK, http://en.wikipedia.org/wiki/Cocos_(Keeling)_Islands_Airport
+Corfu Int'l (Ioannis Kapodistrias), CFU, http://en.wikipedia.org/wiki/Corfu_International_Airport
+Changchun Longjia Int'l, CGQ, http://en.wikipedia.org/wiki/Changchun_Longjia_International_Airport
+Charleston Int'l, CHS, http://en.wikipedia.org/wiki/Charleston_International_Airport
+Coimbatore, CJB, http://en.wikipedia.org/wiki/Coimbatore_Airport
+Someseni, CLJ, http://en.wikipedia.org/wiki/Cluj-Napoca_International_Airport
+Ignacio Agramonte, CMW, http://en.wikipedia.org/wiki/Ignacio_Agramonte_International_Airport
+Casper/Natrona County Int'l, CPR, http://en.wikipedia.org/wiki/Casper/Natrona_County_International_Airport
+Clark Int'l, CRK, http://en.wikipedia.org/wiki/Clark_International_Airport
+Yeager, CRW, http://en.wikipedia.org/wiki/Yeager_Airport
+Catania Fontanarossa, CTA, http://en.wikipedia.org/wiki/Catania-Fontanarossa_Airport
+Chetumal Int'l, CTM, http://en.wikipedia.org/wiki/Chetumal_International_Airport
+Cardiff, CWL, http://en.wikipedia.org/wiki/Cardiff_Airport
+Gerrard Smith, CYB, http://en.wikipedia.org/wiki/Gerrard_Smith_International_Airport
+Cozumel Int'l, CZM, http://en.wikipedia.org/wiki/Cozumel_International_Airport
+James M. Cox Dayton Int'l, DAY, http://en.wikipedia.org/wiki/Dayton_International_Airport
+Dubbo, DBO, http://en.wikipedia.org/wiki/Dubbo_Airport
+Washington Nat'l, DCA, http://en.wikipedia.org/wiki/Ronald_Reagan_Washington_National_Airport
+Durango Int'l, DGO, http://en.wikipedia.org/wiki/General_Guadalupe_Victoria_International_Airport
+Voloskoye, DNK, http://en.wikipedia.org/wiki/Dnipropetrovsk_International_Airport
+Donetsk, DOK, http://en.wikipedia.org/wiki/Donetsk_International_Airport
+Santa Bernardina Int'l, DZO, http://en.wikipedia.org/wiki/Santa_Bernardina_International_Airport
+Edinburgh Int'l, EDI, http://en.wikipedia.org/wiki/Edinburgh_Airport
+Terrance B. Lettsome Int'l, EIS, http://en.wikipedia.org/wiki/Terrance_B._Lettsome_International_Airport
+Elko Reg., EKO, http://en.wikipedia.org/wiki/Elko_Regional_Airport
+Ensenada, ESE, http://en.wikipedia.org/wiki/Ensenada_Airport
+Vagar, FAE, http://en.wikipedia.org/wiki/V%C3%A1gar_Airport
+Hector Int'l, FAR, http://en.wikipedia.org/wiki/Hector_International_Airport
+Fresno Yosemite Int'l, FAT, http://en.wikipedia.org/wiki/Fresno_Yosemite_International_Airport
+Flagstaff Pulliam, FLG, http://en.wikipedia.org/wiki/Flagstaff_Pulliam_Airport
+Mundo Maya Int'l, FRS, http://en.wikipedia.org/wiki/Mundo_Maya_International_Airport
+Sioux Falls Reg., FSD, http://en.wikipedia.org/wiki/Sioux_Falls_Regional_Airport
+Spokane Int'l, GEG, http://en.wikipedia.org/wiki/Spokane_International_Airport
+Exuma Int'l, GGT, http://en.wikipedia.org/wiki/Exuma_International_Airport
+Gibraltar, GIB, http://en.wikipedia.org/wiki/Gibraltar_Airport
+Gerald R. Ford Int'l, GRR, http://en.wikipedia.org/wiki/Gerald_R._Ford_International_Airport
+Triad Int'l, GSO, http://en.wikipedia.org/wiki/Piedmont_Triad_International_Airport
+Great Falls Int'l, GTF, http://en.wikipedia.org/wiki/Great_Falls_International_Airport
+Gaziantep Oguzeli Int'l, GZT, http://en.wikipedia.org/wiki/O%C4%9Fuzeli_Airport
+Hubli, HBX, http://en.wikipedia.org/wiki/Hubli_Airport
+Hat Yai Int'l, HDY, http://en.wikipedia.org/wiki/Hat_Yai_International_Airport
+Hefei-Luogang, HFE, http://en.wikipedia.org/wiki/Hefei_Luogang_International_Airport
+Hurghada Int'l, HRG, http://en.wikipedia.org/wiki/Hurghada_International_Airport
+Kharkov Int'l, HRK, http://en.wikipedia.org/wiki/Kharkiv_International_Airport
+Huntsville Int'l, HSV, http://en.wikipedia.org/wiki/Huntsville_International_Airport
+Ibadan, IBA, http://en.wikipedia.org/wiki/Ibadan_Airport
+Kansas City Int'l, ICT, http://en.wikipedia.org/wiki/Kansas_City_International_Airport
+Wilmington Int'l, ILM, http://en.wikipedia.org/wiki/Wilmington_International_Airport
+Ilorin Int'l, ILR, http://en.wikipedia.org/wiki/Ilorin_International_Airport
+Falls Int'l, INL, http://en.wikipedia.org/wiki/Falls_International_Airport
+Inverness, INV, http://en.wikipedia.org/wiki/Inverness_Airport
+Imperial Cty., IPL, http://en.wikipedia.org/wiki/Imperial_County_Airport
+Jammu, IXJ, http://en.wikipedia.org/wiki/Jammu_Airport
+Madurai, IXM, http://en.wikipedia.org/wiki/Madurai_Airport
+Jodhpur, JDH, http://en.wikipedia.org/wiki/Jodhpur_Airport
+Jabalpur, JLR, http://en.wikipedia.org/wiki/Jabalpur_Airport
+Kilimanjaro Int'l, JRO, http://en.wikipedia.org/wiki/Kilimanjaro_International_Airport
+Kaduna, KAD, http://en.wikipedia.org/wiki/Kaduna_Airport
+Kananga, KGA, http://en.wikipedia.org/wiki/Kananga_Airport
+Kumasi, KMS, http://en.wikipedia.org/wiki/Kumasi_Airport
+Vina del Mar, KNA, http://en.wikipedia.org/wiki/Vi%C3%B1a_del_Mar_Airport
+Kanpur, KNU, http://en.wikipedia.org/wiki/Kanpur_Airport
+Kona Int'l at Keahole, KOA, http://en.wikipedia.org/wiki/Kona_International_Airport
+Kirkwall, KOI, http://en.wikipedia.org/wiki/Kirkwall_Airport
+Kota, KTU, http://en.wikipedia.org/wiki/Kota_Airport
+Konya, KYA, http://en.wikipedia.org/wiki/Konya_Airport
+Blue Grass, LEX, http://en.wikipedia.org/wiki/Blue_Grass_Airport
+Lihue, LIH, http://en.wikipedia.org/wiki/Lihu'e_Airport
+Little Rock National, LIT, http://en.wikipedia.org/wiki/Little_Rock_National_Airport
+Los Mochis, LMM, http://en.wikipedia.org/wiki/Federal_del_Valle_del_Fuerte_International_Airport
+Venustiano Carranza Int'l, LOV, http://en.wikipedia.org/wiki/Venustiano_Carranza_International_Airport
+Laredo Int'l, LRD, http://en.wikipedia.org/wiki/Laredo_International_Airport
+Sumburgh, LSI, http://en.wikipedia.org/wiki/Sumburgh_Airport
+Bassel Al-Assad Int'l, LTK, http://en.wikipedia.org/wiki/Bassel_Al-Assad_International_Airport
+London Luton, LTN, http://en.wikipedia.org/wiki/London_Luton_Airport
+Svalbard Longyear, LYR, http://en.wikipedia.org/wiki/Svalbard_Airport%2C_Longyear
+Sangster Int'l, MBJ, http://en.wikipedia.org/wiki/Sangster_International_Airport
+Mandalay Int'l, MDL, http://en.wikipedia.org/wiki/Mandalay_International_Airport
+Chicago Midway Int'l, MDW, http://en.wikipedia.org/wiki/Chicago_Midway_International_Airport
+Eloy Alfaro Int'l, MEC, http://en.wikipedia.org/wiki/Manta_Air_Base
+Montgomery Reg., MGM, http://en.wikipedia.org/wiki/Montgomery_Regional_Airport
+Manchester-Boston Reg., MHT, http://en.wikipedia.org/wiki/Manchester-Boston_Regional_Airport
+Maiduguri Int'l, MIU, http://en.wikipedia.org/wiki/Maiduguri_International_Airport
+Mbuji Mayi, MJM, http://en.wikipedia.org/wiki/Mbuji_Mayi_Airport
+Minot Int'l, MOT, http://en.wikipedia.org/wiki/Minot_International_Airport
+Missoula Int'l, MSO, http://en.wikipedia.org/wiki/Missoula_International_Airport
+Gen R.S. Taboada Int'l, MXL, http://en.wikipedia.org/wiki/General_Rodolfo_S%C3%A1nchez_Taboada_International_Airport
+Malpensa, MXP, http://en.wikipedia.org/wiki/Malpensa_Airport
+Norfolk Island, NLK, http://en.wikipedia.org/wiki/Norfolk_Island_Airport
+Nurnberg, NUE, http://en.wikipedia.org/wiki/Nuremberg_Airport
+Odessa Int'l, ODS, http://en.wikipedia.org/wiki/Odessa_International_Airport
+Gold Coast, OOL, http://en.wikipedia.org/wiki/Gold_Coast_Airport
+Oran Es Senia, ORN, http://en.wikipedia.org/wiki/Oran_Es_S%C3%A9nia_Airport
+Lok Nayak Jaiprakash, PAT, http://en.wikipedia.org/wiki/Lok_Nayak_Jayaprakash_Airport
+Paysandu, PDU, http://en.wikipedia.org/wiki/Paysand%C3%BA_Airport
+Paphos Int'l, PFO, http://en.wikipedia.org/wiki/Paphos_International_Airport
+Sultan Mahmud Badaruddin II, PLM, http://en.wikipedia.org/wiki/Sultan_Mahmud_Badaruddin_II_Airport
+Polokwane Int'l, PTG, http://en.wikipedia.org/wiki/Polokwane_International_Airport
+Punta Cana, PUJ, http://en.wikipedia.org/wiki/Punta_Cana_International_Airport
+Queretaro Int'l, QRO, http://en.wikipedia.org/wiki/Quer%C3%A9taro_International_Airport
+Rajkot, RAJ, http://en.wikipedia.org/wiki/Rajkot_Airport
+Richmond Int'l, RIC, http://en.wikipedia.org/wiki/Richmond_International_Airport
+Shah Makhdum, RJH, http://en.wikipedia.org/wiki/Shah_Makhdum_Airport
+Greater Rochester Int'l, ROC, http://en.wikipedia.org/wiki/Greater_Rochester_International_Airport
+Rockhampton, ROK, http://en.wikipedia.org/wiki/Rockhampton_Airport
+Rostov-on-Don, ROV, http://en.wikipedia.org/wiki/Rostov-on-Don_Airport
+Saratov, RTW, http://en.wikipedia.org/wiki/Saratov_Tsentralny_Airport
+Ramon Villeda Morales Int'l, SAP, http://en.wikipedia.org/wiki/Ram%C3%B3n_Villeda_Morales_International_Airport
+Santa Barbara Muni., SBA, http://en.wikipedia.org/wiki/Santa_Barbara_Airport
+Deadhorse, SCC, http://en.wikipedia.org/wiki/Deadhorse_Airport
+Kangerlussuaq, SFJ, http://en.wikipedia.org/wiki/Kangerlussuaq_Airport
+Springfield Reg., SGF, http://en.wikipedia.org/wiki/Springfield/Branson_National_Airport
+Shreveport Reg., SHV, http://en.wikipedia.org/wiki/Shreveport_Regional_Airport
+Simferopol Int'l, SIP, http://en.wikipedia.org/wiki/Simferopol_International_Airport
+Sitka Rocky Gutierrez, SIT, http://en.wikipedia.org/wiki/Sitka_Rocky_Gutierrez_Airport
+Los Cabos Int'l, SJD, http://en.wikipedia.org/wiki/Los_Cabos_International_Airport
+McNary Field, SLE, http://en.wikipedia.org/wiki/McNary_Field
+Plan de Guadalupe, SLW, http://en.wikipedia.org/wiki/Plan_de_Guadalupe_International_Airport
+Shannon, SNN, http://en.wikipedia.org/wiki/Shannon_Airport
+Santo Pekoa Int'l, SON, http://en.wikipedia.org/wiki/Santo-Pekoa_International_Airport
+Achmad Yani, SRG, http://en.wikipedia.org/wiki/Achmad_Yani_Airport
+Srinagar, SXR, http://en.wikipedia.org/wiki/Srinagar_Airport
+Tapachula Int'l, TAP, http://en.wikipedia.org/wiki/Tapachula_International_Airport
+Podgorica, TGD, http://en.wikipedia.org/wiki/Podgorica_Airport
+Tallahassee Reg., TLH, http://en.wikipedia.org/wiki/Tallahassee_Regional_Airport
+Turin Int'l, TRN, http://en.wikipedia.org/wiki/Turin_International_Airport
+Taiyuan Wusu Int'l, TYN, http://en.wikipedia.org/wiki/Taiyuan_Wusu_International_Airport
+Narsarsuaq, UAK, http://en.wikipedia.org/wiki/Narsarsuaq_Airport
+Rayong, UTP, http://en.wikipedia.org/wiki/U-Tapao_International_Airport
+Victoria Falls, VFA, http://en.wikipedia.org/wiki/Victoria_Falls_Airport
+Vijaywada, VGA, http://en.wikipedia.org/wiki/Vijayawada_Airport
+Varanasi, VNS, http://en.wikipedia.org/wiki/Varanasi_Airport
+Juan Gualberto Gomez, VRA, http://en.wikipedia.org/wiki/Juan_Gualberto_G%C3%B3mez_Airport
+Villahermosa, VSA, http://en.wikipedia.org/wiki/Carlos_Rovirosa_P%C3%A9rez_International_Airport
+Brandon, YBR, http://en.wikipedia.org/wiki/Brandon_Airport
+CFB Edmonton, YED, http://en.wikipedia.org/wiki/CFB_Edmonton
+Iqaluit, YFB, http://en.wikipedia.org/wiki/Iqaluit_Airport
+John C. Munro Hamilton Int'l, YHM, http://en.wikipedia.org/wiki/John_C._Munro_Hamilton_International_Airport
+Fort McMurray, YMM, http://en.wikipedia.org/wiki/Fort_McMurray_Airport
+Yantai, YNT, http://en.wikipedia.org/wiki/Yantai_Laishan_International_Airport
+Peace River, YPE, http://en.wikipedia.org/wiki/Peace_River_Airport
+Greater Moncton Int'l, YQM, http://en.wikipedia.org/wiki/Greater_Moncton_International_Airport
+Sydney/J.A. Douglas McCurdy, YQY, http://en.wikipedia.org/wiki/Sydney_Airport_(Nova_Scotia)
+Resolute Bay, YRB, http://en.wikipedia.org/wiki/Resolute_Bay_Airport
+Fort Smith, YSM, http://en.wikipedia.org/wiki/Fort_Smith_Airport
+Thompson, YTH, http://en.wikipedia.org/wiki/Thompson_Airport
+Timmins, YTS, http://en.wikipedia.org/wiki/Timmins_Airport
+Repulse Bay, YUT, http://en.wikipedia.org/wiki/Repulse_Bay_Airport
+Kuujjuaq, YVP, http://en.wikipedia.org/wiki/Kuujjuaq_Airport
+Wabush, YWK, http://en.wikipedia.org/wiki/Wabush_Airport
+Edmonton City Centre, YXD, http://en.wikipedia.org/wiki/Edmonton_City_Centre_(Blatchford_Field)_Airport
+Fort St. John (N. Peace), YXJ, http://en.wikipedia.org/wiki/Fort_St._John_Airport
+North Bay/Jack Garland, YYB, http://en.wikipedia.org/wiki/North_Bay/Jack_Garland_Airport
+Zaria, ZAR, http://en.wikipedia.org/wiki/Zaria_Airport
+Skopje, SKP, http://en.wikipedia.org/wiki/Skopje_Airport
+Burnpur, NULL, http://en.wikipedia.org/wiki/Burnpur_Airport
+Hindon Air Force Station, NULL, http://en.wikipedia.org/wiki/Hindon_Air_Force_Station
+Sunchon, NULL, http://en.wikipedia.org/wiki/Sunchon_Airport
+Lodz Wladyslaw Reymont, LCJ, http://en.wikipedia.org/wiki/%C5%81%C3%B3d%C5%BA_W%C5%82adys%C5%82aw_Reymont_Airport
+Alma Ata N.W., BXJ, NULL
+Jiamusi Dongjiao, JMU, http://en.wikipedia.org/wiki/Jiamusi_Dongjiao_Airport
+Mudanjiang Hailang, MDG, http://en.wikipedia.org/wiki/Mudanjiang_Hailang_Airport
+Severomorsk-3 (Murmansk N.E.), NULL, http://en.wikipedia.org/wiki/Severomorsk-3
+Mosul Int'l, OSB, http://en.wikipedia.org/wiki/Mosul_International_Airport
+Rostov N., NULL, NULL
+Rostov S.W., NULL, NULL
+Oulu, OUL, http://en.wikipedia.org/wiki/Oulu_Airport
+Bordeaux, BOD, http://en.wikipedia.org/wiki/Bordeaux_-_M%C3%A9rignac_Airport
+Mandelieu, CEQ, http://en.wikipedia.org/wiki/Cannes_%E2%80%93_Mandelieu_Airport
+St Gatien, DOL, http://en.wikipedia.org/wiki/Deauville_-_Saint-Gatien_Airport
+Lille-Lesquin, LIL, http://en.wikipedia.org/wiki/Lille_Airport
+Toulouse-Blagnac, TLS, http://en.wikipedia.org/wiki/Toulouse-Blagnac_Airport
+Fukuoka, FUK, http://en.wikipedia.org/wiki/Fukuoka_Airport
+Hiroshima-Nishi, HIW, http://en.wikipedia.org/wiki/Hiroshima-Nishi_Airport
+Nagoya, NKM, http://en.wikipedia.org/wiki/Nagoya_Airfield
+Sendai, SDJ, http://en.wikipedia.org/wiki/Sendai_Airport
+Kirkenes Hoybuktmoen, KKN, http://en.wikipedia.org/wiki/Kirkenes_Airport%2C_H%C3%B8ybuktmoen
+Marechal Rondon Int'l, CGB, http://en.wikipedia.org/wiki/Marechal_Rondon_International_Airport
+Hercilio Luz Int'l, FLN, http://en.wikipedia.org/wiki/Herc%C3%ADlio_Luz_International_Airport
+Joinville-Lauro C. de Loyola, JOI, http://en.wikipedia.org/wiki/Joinville-Lauro_Carneiro_de_Loyola_Airport
+Presidente Castro Pinto Int'l, JPA, http://en.wikipedia.org/wiki/Presidente_Castro_Pinto_International_Airport
+Augusto Severo Int'l, NAT, http://en.wikipedia.org/wiki/Augusto_Severo_International_Airport
+Francisco Sa Carneiro, OPO, http://en.wikipedia.org/wiki/Francisco_S%C3%A1_Carneiro_Airport
+Marechal Cunha Machado Int'l, SLZ, http://en.wikipedia.org/wiki/Marechal_Cunha_Machado_International_Airport
+Santos Air Force Base, SSZ, http://en.wikipedia.org/wiki/Santos_Air_Force_Base
+Teresina-Senador Petronio Portella, THE, http://en.wikipedia.org/wiki/Teresina_Airport
+Viracopos-Campinas Int'l, VCP, http://en.wikipedia.org/wiki/Viracopos-Campinas_International_Airport
+Eurico de Aguiar Salles, VIX, http://en.wikipedia.org/wiki/Eurico_de_Aguiar_Salles_Airport
+Alicante, ALC, http://en.wikipedia.org/wiki/Alicante_Airport
+Almeria, LEI, http://en.wikipedia.org/wiki/Almer%C3%ADa_Airport
+Valencia, VLC, http://en.wikipedia.org/wiki/Valencia_Airport
+Kiruna_Airport, KRN, http://en.wikipedia.org/wiki/Kiruna_Airport
+Norrkoping Airport, NRK, http://en.wikipedia.org/wiki/Norrk%C3%B6ping_Airport
+Husein Sastranegara Int'l, BDO, http://en.wikipedia.org/wiki/Husein_Sastranegara_International_Airport
+Rosario – Islas Malvinas Int'l, ROS, http://en.wikipedia.org/wiki/Rosario_%E2%80%93_Islas_Malvinas_International_Airport
+Maceio/Zumbi dos Palmares Int'l, MCZ, http://en.wikipedia.org/wiki/Zumbi_dos_Palmares_International_Airport
+Sharm el-Sheikh Int'l, SSH, http://en.wikipedia.org/wiki/Sharm_el-Sheikh_International_Airport
+Taba Int'l, TCP, http://en.wikipedia.org/wiki/Taba_International_Airport
+Agra, AGR, http://en.wikipedia.org/wiki/Agra_Airport
+Vadodara, BDQ, http://en.wikipedia.org/wiki/Vadodara_Airport
+Shahid Ashrafi Esfahani, KSH, http://en.wikipedia.org/wiki/Shahid_Ashrafi_Esfahani_Airport
+Benina Int'l, BEN, http://en.wikipedia.org/wiki/Benina_International_Airport
+King Abdulaziz Ab, DHA, http://en.wikipedia.org/wiki/Dhahran_International_Airport
+Nueva Hesperides Int'l, STY, http://en.wikipedia.org/wiki/Nueva_Hesperides_International_Airport
+Baikonur Cosmodrome, NULL, http://en.wikipedia.org/wiki/Baikonur_Cosmodrome
+Kennedy Space Center, NULL, http://en.wikipedia.org/wiki/John_F._Kennedy_Space_Center
+Centre Spatial Guyanais, NULL, http://en.wikipedia.org/wiki/Guiana_Space_Centre
+Queen Beatrix Int'l, AUA, http://en.wikipedia.org/wiki/Queen_Beatrix_International_Airport
+Djibouti-Ambouli Int'l, JIB, http://en.wikipedia.org/wiki/Djibouti-Ambouli_International_Airport
+Diego Aracena Int'l, IQQ, http://en.wikipedia.org/wiki/Diego_Aracena_International_Airport
+Sabiha Gokcen Havaalani, SAW, http://en.wikipedia.org/wiki/Sabiha_G%C3%B6k%C3%A7en_International_Airport
+Kosrae Island, KSA, http://en.wikipedia.org/wiki/Kosrae_International_Airport
+Funafuti Int'l, FUN, http://en.wikipedia.org/wiki/Funafuti_International_Airport
+Dr. Babasaheb Ambedkar Int'l, NAG, http://en.wikipedia.org/wiki/Dr._Babasaheb_Ambedkar_International_Airport
+Phuket Int'l, HKT, http://en.wikipedia.org/wiki/Phuket_International_Airport
+Nadi Int'l, NAN, http://en.wikipedia.org/wiki/Nadi_International_Airport
+Lic. Jesus Teran Peredo Int'l, AGU, http://en.wikipedia.org/wiki/Lic._Jes%C3%BAs_Ter%C3%A1n_Peredo_International_Airport
+Albenga, ALL, http://en.wikipedia.org/wiki/Villanova_d'Albenga_International_Airport
+Queen Alia Int'l, AMM, http://en.wikipedia.org/wiki/Queen_Alia_International_Airport
+Chacalluta Int'l, ARI, http://en.wikipedia.org/wiki/Chacalluta_Airport
+Atar Int'l, ATR, http://en.wikipedia.org/wiki/Atar_International_Airport
+Ernesto Cortissoz Int'l, BAQ, http://en.wikipedia.org/wiki/Ernesto_Cortissoz_International_Airport
+Teniente Luis Candelaria Int'l, BRC, http://en.wikipedia.org/wiki/San_Carlos_de_Bariloche_Airport
+Bouake, BYK, http://en.wikipedia.org/wiki/Bouak%C3%A9_Airport
+Philip S. W. Goldson Int'l, BZE, http://en.wikipedia.org/wiki/Philip_S._W._Goldson_International_Airport
+Corpus Christi Int'l, CRP, http://en.wikipedia.org/wiki/Corpus_Christi_International_Airport
+Hato Int'l, CUR, http://en.wikipedia.org/wiki/Hato_International_Airport
+Velazco Astete Int'l, CUZ, http://en.wikipedia.org/wiki/Alejandro_Velasco_Astete_International_Airport
+Julius Nyerere Int'l, DAR, http://en.wikipedia.org/wiki/Julius_Nyerere_International_Airport
+Detroit City, DET, http://en.wikipedia.org/wiki/Coleman_A._Young_International_Airport
+Presidente Nicolau Lobato Int'l, DIL, http://en.wikipedia.org/wiki/Presidente_Nicolau_Lobato_International_Airport
+Moscow Domodedovo Int'l, DME, http://en.wikipedia.org/wiki/Domodedovo_International_Airport
+Dunedin Int'l, DUD, http://en.wikipedia.org/wiki/Dunedin_International_Airport
+Dzaoudzi Pamanzi Int'l, DZA, http://en.wikipedia.org/wiki/Dzaoudzi_Pamandzi_International_Airport
+El Paso Int'l, ELP, http://en.wikipedia.org/wiki/El_Paso_International_Airport
+Zvartnots Int'l, EVN, http://en.wikipedia.org/wiki/Zvartnots_International_Airport
+Fort Worth Meacham Field, FTW, http://en.wikipedia.org/wiki/Fort_Worth_Meacham_International_Airport
+JAGS McCartney Int'l, GDT, http://en.wikipedia.org/wiki/JAGS_McCartney_International_Airport
+Scholes Int'l, GLS, http://en.wikipedia.org/wiki/Scholes_International_Airport_at_Galveston
+Goma Int'l, GOM, http://en.wikipedia.org/wiki/Goma_International_Airport
+Garoua Int'l, GOU, http://en.wikipedia.org/wiki/Garoua_International_Airport
+Antonio B. Won Pat Int'l, GUM, http://en.wikipedia.org/wiki/Antonio_B._Won_Pat_International_Airport
+Gary/Chicago Int'l, GYY, http://en.wikipedia.org/wiki/Gary/Chicago_International_Airport
+Prince Said Ibrahim Int'l, HAH, http://en.wikipedia.org/wiki/Prince_Said_Ibrahim_International_Airport
+Hobart Int'l, HBA, http://en.wikipedia.org/wiki/Hobart_International_Airport
+Honiara Int'l, HIR, http://en.wikipedia.org/wiki/Honiara_International_Airport
+Kiev Zhuliany Int'l, IEV, http://en.wikipedia.org/wiki/Kiev_International_Airport
+Irkutsk S.E., IKT, http://en.wikipedia.org/wiki/Irkutsk_Airport
+Indianapolis Int'l, IND, http://en.wikipedia.org/wiki/Indianapolis_International_Airport
+Nauru Int'l, INU, http://en.wikipedia.org/wiki/Nauru_International_Airport
+Mataveri Int'l, IPC, http://en.wikipedia.org/wiki/Mataveri_International_Airport
+Gob. Horacio Guzman Int'l, JUJ, http://en.wikipedia.org/wiki/Gobernador_Horacio_Guzm%C3%A1n_International_Airport
+Nanchang Changbei Int'l, KHN, http://en.wikipedia.org/wiki/Nanchang_Changbei_International_Airport
+Kunming Wujiaba Int'l, KMG, http://en.wikipedia.org/wiki/Kunming_Wujiaba_International_Airport
+Leeds Bradford, LBA, http://en.wikipedia.org/wiki/Leeds_Bradford_International_Airport
+Libreville Leon M'ba Int'l, LBV, http://en.wikipedia.org/wiki/Libreville_International_Airport
+Lome Tokoin, LFW, http://en.wikipedia.org/wiki/Lom%C3%A9-Tokoin_Airport
+Lviv Danylo Halytskyi Int'l, LWO, http://en.wikipedia.org/wiki/Lviv_International_Airport
+Marshall Islands Int'l, MAJ, http://en.wikipedia.org/wiki/Marshall_Islands_International_Airport
+Macau Int'l, MFM, http://en.wikipedia.org/wiki/Macau_International_Airport
+Aden Adde Int'l, MGQ, http://en.wikipedia.org/wiki/Aden_Adde_International_Airport
+Maputo Int'l, MPM, http://en.wikipedia.org/wiki/Maputo_International_Airport
+Sir Seewoosagur Ramgoolam Int'l, MRU, http://en.wikipedia.org/wiki/Sir_Seewoosagur_Ramgoolam_International_Airport
+Naples Int'l, NAP, http://en.wikipedia.org/wiki/Naples_International_Airport
+Nouadhibou Int'l, NDB, http://en.wikipedia.org/wiki/Nouadhibou_International_Airport
+Ningbo Lishe Int'l, NGB, http://en.wikipedia.org/wiki/Ningbo_Lishe_International_Airport
+Nouakchott Int'l, NKC, http://en.wikipedia.org/wiki/Nouakchott_International_Airport
+La Tontouta Int'l, NOU, http://en.wikipedia.org/wiki/La_Tontouta_International_Airport
+Oakland Int'l, OAK, http://en.wikipedia.org/wiki/Oakland_International_Airport
+Ontario Int'l, ONT, http://en.wikipedia.org/wiki/LA/Ontario_International_Airport
+Cork, ORK, http://en.wikipedia.org/wiki/Cork_Airport
+Minangkabau Int'l, PDG, http://en.wikipedia.org/wiki/Minangkabau_International_Airport
+Joao Paulo II, PDL, http://en.wikipedia.org/wiki/Jo%C3%A3o_Paulo_II_Airport
+Bacha Khan Int'l, PEW, http://en.wikipedia.org/wiki/Peshawar_International_Airport
+Glasgow Prestwick, PIK, http://en.wikipedia.org/wiki/Glasgow_Prestwick_International_Airport
+Ponta Pora Int'l, PMG, http://en.wikipedia.org/wiki/Ponta_Por%C3%A3_International_Airport
+Palmerston N. Int'l, PMR, http://en.wikipedia.org/wiki/Palmerston_North_International_Airport
+Pohnpei Int'l, PNI, http://en.wikipedia.org/wiki/Pohnpei_International_Airport
+Tahiti Faa'a Int'l, PPT, http://en.wikipedia.org/wiki/Faa'a_International_Airport
+Pisa Galileo Galilei Int'l, PSA, http://en.wikipedia.org/wiki/Galileo_Galilei_International_Airport
+Port Sudan, PZU, NULL
+Praia Int'l, RAI, http://en.wikipedia.org/wiki/Praia_International_Airport
+Marrakech-Menara, RAK, http://en.wikipedia.org/wiki/Menara_International_Airport
+Rarotonga Int'l, RAR, http://en.wikipedia.org/wiki/Rarotonga_International_Airport
+Siem Reap Int'l, REP, http://en.wikipedia.org/wiki/Angkor_International_Airport
+Hermes Quijada Int'l, RGA, http://en.wikipedia.org/wiki/Hermes_Quijada_Airport
+Piloto Civil Norberto Fernandez Int'l, RGL, http://en.wikipedia.org/wiki/Piloto_Civil_Norberto_Fern%C3%A1ndez_International_Airport
+Reno-Tahoe Int'l, RNO, http://en.wikipedia.org/wiki/Reno-Tahoe_International_Airport
+Roman Tmetuchl Int'l, ROR, http://en.wikipedia.org/wiki/Palau_International_Airport
+Amilcar Cabral Int'l, SID, http://en.wikipedia.org/wiki/Am%C3%ADlcar_Cabral_International_Airport
+Sarajevo, SJJ, http://en.wikipedia.org/wiki/Sarajevo_International_Airport
+Robert L. Bradshaw Int'l, SKB, http://en.wikipedia.org/wiki/Robert_L._Bradshaw_International_Airport
+Martín Miguel de Güemes Int, SLA, http://en.wikipedia.org/wiki/Mart%C3%ADn_Miguel_de_G%C3%BCemes_Airport
+Saipan Int'l, SPN, http://en.wikipedia.org/wiki/Saipan_International_Airport
+Juana Azurduy de Padilla Int'l, SRE, http://en.wikipedia.org/wiki/Juana_Azurduy_de_Padilla_International_Airport
+Princess Juliana Int'l, SXM, http://en.wikipedia.org/wiki/Princess_Juliana_International_Airport
+Ta'izz Int'l, TAI, http://en.wikipedia.org/wiki/Ta'izz_International_Airport
+Qingdao Liuting Int'l, TAO, http://en.wikipedia.org/wiki/Qingdao_Liuting_International_Airport
+Chuuk Int'l, TKK, http://en.wikipedia.org/wiki/Chuuk_International_Airport
+Tangier Ibn Battouta, TNG, http://en.wikipedia.org/wiki/Tangier_Ibn_Battouta_Airport
+Bonriki Int'l, TRW, http://en.wikipedia.org/wiki/Bonriki_International_Airport
+Astana Int'l, TSE, http://en.wikipedia.org/wiki/Astana_International_Airport
+Tianjin Binhai Int'l, TSN, http://en.wikipedia.org/wiki/Tianjin_Binhai_International_Airport
+Townsville, TSV, http://en.wikipedia.org/wiki/Townsville_Airport
+Teniente Gen. Benjamin Matienzo Int'l, TUC, http://en.wikipedia.org/wiki/Benjam%C3%ADn_Matienzo_International_Airport
+Aeroport Tunis, TUN, http://en.wikipedia.org/wiki/Tunis-Carthage_International_Airport
+Tucson Int'l, TUS, http://en.wikipedia.org/wiki/Tucson_International_Airport
+Chinggis Khaan Int'l, ULN, http://en.wikipedia.org/wiki/Chinggis_Khaan_International_Airport
+Urumqi Diwopu Int'l, URC, http://en.wikipedia.org/wiki/%C3%9Cr%C3%BCmqi_Diwopu_International_Airport
+Bauerfield Int'l, VLI, http://en.wikipedia.org/wiki/Bauerfield_International_Airport
+Wewak Int'l, WWK, http://en.wikipedia.org/wiki/Wewak_International_Airport
+Chalons Vatry, XCR, http://en.wikipedia.org/wiki/Ch%C3%A2lons_Vatry_Airport
+Xiamen Gaoqi Int'l, XMN, http://en.wikipedia.org/wiki/Xiamen_Gaoqi_International_Airport
+Yap Int'l, YAP, http://en.wikipedia.org/wiki/Yap_International_Airport
+Playa de Oro Int'l, ZLO, http://en.wikipedia.org/wiki/Playa_de_Oro_International_Airport
+Cayenne – Rochambeau, CAY, http://en.wikipedia.org/wiki/Cayenne-Rochambeau_Airport
+Irkutsk N.W., UIIR, http://en.wikipedia.org/wiki/Irkutsk_Northwest_Airport
+Shijiazhuang Zhengding Int'l, SJW, http://en.wikipedia.org/wiki/Shijiazhuang_Zhengding_International_Airport
+Heydar Aliyev Int'l, GYD, http://en.wikipedia.org/wiki/Heydar_Aliyev_International_Airport
+Lakatamia Airbase, LAK, http://en.wikipedia.org/wiki/List_of_airports_in_Cyprus
+Cabo Frio Int'l, CFB, http://en.wikipedia.org/wiki/Cabo_Frio_International_Airport
+Helsinki-Malmi, HEM, http://en.wikipedia.org/wiki/Helsinki-Malmi_Airport
+Luxembourg-Findel, LUX, http://en.wikipedia.org/wiki/Luxembourg-Findel_International_Airport
+Venice Marco Polo, VCE, http://en.wikipedia.org/wiki/Marco_Polo_International_Airport
+Yangyang Int'l, YNY, http://en.wikipedia.org/wiki/Yangyang_International_Airport
+Tabatinga Int'l, TBT, http://en.wikipedia.org/wiki/Tabatinga_International_Airport
+Boa Vista Int'l, BVB, http://en.wikipedia.org/wiki/Boa_Vista_International_Airport
+Gran Canaria, LPA, http://en.wikipedia.org/wiki/Gran_Canaria_Airport
+Com. Armando Tola Int'l, ING, http://en.wikipedia.org/wiki/Comandante_Armando_Tola_International_Airport
+Stockholm-Skavsta, NYO, http://en.wikipedia.org/wiki/Stockholm-Skavsta_Airport
+Polonia Int'l, MES, http://en.wikipedia.org/wiki/Polonia_International_Airport
+Bangui M'Poko Int'l, BGF, http://en.wikipedia.org/wiki/Bangui_M'Poko_International_Airport
+Hangzhou Xiaoshan Int'l, HGH, http://en.wikipedia.org/wiki/Hangzhou_Xiaoshan_International_Airport
+Cassidy Int'l, CXI, http://en.wikipedia.org/wiki/Cassidy_International_Airport
+Siauliai Int'l, SQQ, http://en.wikipedia.org/wiki/%C5%A0iauliai_International_Airport
+Niue Int'l, IUE, http://en.wikipedia.org/wiki/Niue_International_Airport
+Guarani Int'l, AGT, http://en.wikipedia.org/wiki/Guarani_International_Airport
+Rodriguez Ballon Int'l, AQP, http://en.wikipedia.org/wiki/Rodriguez_Ballon_International_Airport
+Vladivostok Int'l, VVO, http://en.wikipedia.org/wiki/Vladivostok_International_Airport
+Pristina, PRN, http://en.wikipedia.org/wiki/Pristina_International_Airport_Adem_Jashari
+Deurne, ANR, http://en.wikipedia.org/wiki/Antwerp_International_Airport
+Gen. Marquez de Leon Int'l, LAP, http://en.wikipedia.org/wiki/Manuel_M%C3%A1rquez_de_Le%C3%B3n_International_Airport
+Harbin Taiping, HRB, http://en.wikipedia.org/wiki/Harbin_Taiping_International_Airport
+Trivandrum Int'l, TRV, http://en.wikipedia.org/wiki/Trivandrum_International_Airport
+Adnan Menderes, ADB, http://en.wikipedia.org/wiki/Adnan_Menderes_Airport
+Nanjing Lukou Int'l, NKG, http://en.wikipedia.org/wiki/Nanjing_Lukou_International_Airport
+Freeport Int'l, FPO, http://en.wikipedia.org/wiki/Grand_Bahama_International_Airport
+Tripoli Int'l, TIP, http://en.wikipedia.org/wiki/Tripoli_International_Airport
+Gander Int'l, YQX, http://en.wikipedia.org/wiki/Gander_International_Airport
+Doha Int'l, DOH, http://en.wikipedia.org/wiki/Doha_International_Airport
+Albuquerque Int'l, ABQ, http://en.wikipedia.org/wiki/Albuquerque_International_Sunport
+V.C. Bird Int'l, ANU, http://en.wikipedia.org/wiki/VC_Bird_International_Airport
+Faleolo, APW, http://en.wikipedia.org/wiki/Faleolo_International_Airport
+Asyut, ATZ, http://en.wikipedia.org/wiki/Assiut_Airport
+Bahrain Int'l, BAH, http://en.wikipedia.org/wiki/Bahrain_International_Airport
+Bradley Int'l, BDL, http://en.wikipedia.org/wiki/Bradley_International_Airport
+Grantley Adams Int'l, BGI, http://en.wikipedia.org/wiki/Grantley_Adams_International_Airport
+Yundum Int'l, BJL, http://en.wikipedia.org/wiki/Banjul_International_Airport
+Bujumbura Int'l, BJM, http://en.wikipedia.org/wiki/Bujumbura_International_Airport
+Chileka Int'l, BLZ, http://en.wikipedia.org/wiki/Chileka_International_Airport
+Broome Int'l, BME, http://en.wikipedia.org/wiki/Broome_International_Airport
+Bandar Abbass Int'l, BND, http://en.wikipedia.org/wiki/Bandar_Abbas_International_Airport
+Basrah Int'l, BSR, http://en.wikipedia.org/wiki/Basra_International_Airport
+Ciudad Juarez Int'l, CJS, http://en.wikipedia.org/wiki/Abraham_Gonz%C3%A1lez_International_Airport
+Katunayake Int'l, CMB, http://en.wikipedia.org/wiki/Bandaranaike_International_Airport
+Cairns Int'l, CNS, http://en.wikipedia.org/wiki/Cairns_International_Airport
+Chiang Mai Int'l, CNX, http://en.wikipedia.org/wiki/Chiang_Mai_International_Airport
+City of Colorado Springs, COS, http://en.wikipedia.org/wiki/Colorado_Springs_Airport
+Ign. Alberto Ongay Int'l, CPE, http://en.wikipedia.org/wiki/Ing._Alberto_Acu%C3%B1a_Ongay_International_Airport
+Changsha Huanghua Int'l, CSX, http://en.wikipedia.org/wiki/Changsha_airport
+Greater Cincinnati Int'l, CVG, http://en.wikipedia.org/wiki/Cincinnati/Northern_Kentucky_International_Airport
+Da Nang, DAD, http://en.wikipedia.org/wiki/Da_Nang_International_Airport
+Dallas Love Field, DAL, http://en.wikipedia.org/wiki/Dallas_Love_Field
+Damascus Int'l, DAM, http://en.wikipedia.org/wiki/Damascus_International_Airport
+Enrique Malek Int'l, DAV, http://en.wikipedia.org/wiki/Enrique_Malek_International_Airport
+Aba Tenna D. Yilma Int'l, DIR, http://en.wikipedia.org/wiki/Aba_Tenna_Dejazmach_Yilma_International_Airport
+Bali Int'l, DPS, http://en.wikipedia.org/wiki/Ngurah_Rai_Airport
+Des Moines Int'l, DSM, http://en.wikipedia.org/wiki/Des_Moines_International_Airport
+Entebbe Int'l, EBB, http://en.wikipedia.org/wiki/Entebbe_International_Airport
+Kisangani Bangoka Int'l, FKI, http://en.wikipedia.org/wiki/Bangoka_International_Airport
+Fuzhou Changle Int'l, FOC, http://en.wikipedia.org/wiki/Fuzhou_Changle_International_Airport
+Lokpriya G. Bordoloi Int'l, GAU, http://en.wikipedia.org/wiki/Lokpriya_Gopinath_Bordoloi_International_Airport
+Gdansk Lech Walesa, GDN, http://en.wikipedia.org/wiki/Gda%C5%84sk_Lech_Wa%C5%82%C4%99sa_Airport
+Point Salines Int'l, GND, http://en.wikipedia.org/wiki/Point_Salines_International_Airport
+Nizhny Novgorod Int'l, GOJ, http://en.wikipedia.org/wiki/Nizhny_Novgorod_International_Airport
+Gen. Jose M. Yanez Int'l, GYM, http://en.wikipedia.org/wiki/General_Jos%C3%A9_Mar%C3%ADa_Y%C3%A1%C3%B1ez_International_Airport
+Hohhot Baita Int'l, HET, http://en.wikipedia.org/wiki/Hohhot_Baita_International_Airport
+Helena Reg., HLN, http://en.wikipedia.org/wiki/Helena_Regional_Airport
+Gen. Ignacio P. Garcia Int'l, HMO, http://en.wikipedia.org/wiki/General_Ignacio_Pesqueira_Garcia_International_Airport
+Dulles Int'l, IAD, http://en.wikipedia.org/wiki/Washington_Dulles_International_Airport
+Hilo Int'l, ITO, http://en.wikipedia.org/wiki/Hilo_International_Airport
+Jackson Int'l, JAN, http://en.wikipedia.org/wiki/Jackson-Evers_International_Airport
+Jacksonville Int'l, JAX, http://en.wikipedia.org/wiki/Jacksonville_International_Airport
+Kuching Int'l, KCH, http://en.wikipedia.org/wiki/Kuching_International_Airport
+Kigali Int'l, KGL, http://en.wikipedia.org/wiki/Kigali_International_Airport
+Balice, KRK, http://en.wikipedia.org/wiki/John_Paul_II_International_Airport_Krak%C3%B3w-Balice
+Kurumoch, KUF, http://en.wikipedia.org/wiki/Kurumoch_International_Airport
+Guilin Liangjiang Int'l, KWL, http://en.wikipedia.org/wiki/Guilin_Liangjiang_International_Airport
+Laoag Int'l, LAO, http://en.wikipedia.org/wiki/Laoag_International_Airport
+LaGuardia, LGA, http://en.wikipedia.org/wiki/LaGuardia_Airport
+London Gatwick, LGW, http://en.wikipedia.org/wiki/London_Gatwick_Airport
+Ljubljana, LJU, http://en.wikipedia.org/wiki/Ljubljana_Jo%C5%BEe_Pu%C4%8Dnik_Airport
+Amausi Int'l, LKO, http://en.wikipedia.org/wiki/Amausi_Airport
+La Plata, LPG, http://en.wikipedia.org/wiki/La_Plata_Airport
+Gen. Sevando Canales, MAM, http://en.wikipedia.org/wiki/General_Servando_Canales_International_Airport
+Manchester Int'l, MAN, http://en.wikipedia.org/wiki/Manchester_Airport
+Kansas City Int'l, MCI, http://en.wikipedia.org/wiki/Kansas_City_International_Airport
+Seeb Int'l, MCT, http://en.wikipedia.org/wiki/Seeb_International_Airport
+Habib Bourguiba Int'l, MIR, http://en.wikipedia.org/wiki/Habib_Bourguiba_International_Airport
+Marseille Provence Airport, MRS, http://en.wikipedia.org/wiki/Marseille_Provence_Airport
+Quetzalcoatl Int'l, NLD, http://en.wikipedia.org/wiki/Quetzalc%C3%B3atl_International_Airport
+Nanning Wuwu Int'l, NNG, http://en.wikipedia.org/wiki/Nanning_Wuxu_International_Airport
+Xoxocotlan Int'l, OAX, http://en.wikipedia.org/wiki/Xoxocotl%C3%A1n_International_Airport
+Kahului, OGG, http://en.wikipedia.org/wiki/Kahului_Airport
+Will Rogers, OKC, http://en.wikipedia.org/wiki/Will_Rogers_World_Airport
+Norfolk Int'l, ORF, http://en.wikipedia.org/wiki/Norfolk_International_Airport
+Palm Beach Int'l, PBI, http://en.wikipedia.org/wiki/Palm_Beach_International_Airport
+Pengel Int'l, PBM, http://en.wikipedia.org/wiki/Johan_Adolf_Pengel_International_Airport
+Bolshesavino, PEE, http://en.wikipedia.org/wiki/Bolshoye_Savino_Airport
+Penang Int'l, PEN, http://en.wikipedia.org/wiki/Penang_International_Airport
+Port Harcourt Int'l, PHC, http://en.wikipedia.org/wiki/Port_Harcourt_International_Airport
+Port Hedland Int'l, PHE, http://en.wikipedia.org/wiki/Port_Hedland_International_Airport
+Pierre Regional, PIR, http://en.wikipedia.org/wiki/Pierre_Regional_Airport
+Greater Pittsburgh Int'l, PIT, http://en.wikipedia.org/wiki/Pittsburgh_International_Airport
+Pago Pago Int'l, PPG, http://en.wikipedia.org/wiki/Pago_Pago_International_Airport
+Birmingham Int'l, BHX, http://en.wikipedia.org/wiki/Birmingham_International_Airport_(United_Kingdom)
+Roberts Int'l, ROB, http://en.wikipedia.org/wiki/Roberts_International_Airport
+Raipur, RPR, http://en.wikipedia.org/wiki/Raipur_Airport
+El Salvador Int'l, SAL, http://en.wikipedia.org/wiki/Cuscatlan_International_Airport
+San Diego Int'l, SAN, http://en.wikipedia.org/wiki/San_Diego_International_Airport
+San Antonio Int'l, SAT, http://en.wikipedia.org/wiki/San_Antonio_International_Airport
+Savannah Int'l, SAV, http://en.wikipedia.org/wiki/Savannah/Hilton_Head_International_Airport
+Antonio Maceo, SCU, http://en.wikipedia.org/wiki/Antonio_Maceo_Airport
+Ponciano Arriaga Int'l, SLP, http://en.wikipedia.org/wiki/Ponciano_Arriaga_International_Airport
+Sacramento Int'l, SMF, http://en.wikipedia.org/wiki/Sacramento_International_Airport
+Cibao Int'l, STI, http://en.wikipedia.org/wiki/Cibao_International_Airport
+Koltsovo, SVX, http://en.wikipedia.org/wiki/Koltsovo_Airport
+Syracuse Hancock Int'l, SYR, http://en.wikipedia.org/wiki/Syracuse_Hancock_International_Airport
+Tabriz, TBZ, http://en.wikipedia.org/wiki/Tabriz_International_Airport
+Torreon Int'l, TRC, http://en.wikipedia.org/wiki/Francisco_Sarabia_International_Airport
+Tulsa Int'l, TUL, http://en.wikipedia.org/wiki/Tulsa_International_Airport
+Mcghee Tyson, TYS, http://en.wikipedia.org/wiki/McGhee_Tyson_Airport
+Ufa Int'l, UFA, http://en.wikipedia.org/wiki/Ufa_International_Airport
+Hewanorra Int'l, UVF, http://en.wikipedia.org/wiki/Hewanorra_International_Airport
+Windhoek Hosea Kutako Int'l, WDH, http://en.wikipedia.org/wiki/Windhoek_Hosea_Kutako_International_Airport
+Sault Ste Marie, YAM, http://en.wikipedia.org/wiki/Sault_Ste._Marie_Airport
+Dawson Cr., YDQ, http://en.wikipedia.org/wiki/Dawson_Creek_Airport
+Edmonton Int'l, YEG, http://en.wikipedia.org/wiki/Edmonton_International_Airport
+Halifax Int'l, YHZ, http://en.wikipedia.org/wiki/Halifax_International_Airport
+Kamloops, YKA, http://en.wikipedia.org/wiki/Kamloops_Airport
+Sudbury, YSB, http://en.wikipedia.org/wiki/Sudbury_Airport
+Saint John, YSJ, http://en.wikipedia.org/wiki/Saint_John_Airport
+Prince George, YXS, http://en.wikipedia.org/wiki/Prince_George_Airport
+Victoria Int'l, YYJ, http://en.wikipedia.org/wiki/Victoria_International_Airport
+Zamboanga Int'l, ZAM, http://en.wikipedia.org/wiki/Zamboanga_International_Airport
+Lanzhou Zhongchuan, ZGC, http://en.wikipedia.org/wiki/Lanzhou_Zhongchuan_Airport
+Albany Int'l, ALB, http://en.wikipedia.org/wiki/Albany_International_Airport
+General Mitchell Int'l, MKE, http://en.wikipedia.org/wiki/General_Mitchell_International_Airport
+Wang-Chia Tun Airbase, NULL, NULL
+Sanya Phoenix Int'l, SYX, http://en.wikipedia.org/wiki/Sanya_Phoenix_International_Airport
+Lhasa Gonggar, LXA, http://en.wikipedia.org/wiki/Lhasa_Gonggar_Airport
+Hotan, HTN, http://en.wikipedia.org/wiki/Hotan_Airport
+Dresden, DRS, http://en.wikipedia.org/wiki/Dresden_Airport
+Kenitra Air Base, NNA, http://en.wikipedia.org/wiki/Kenitra_Air_Base
+Annemasse, QNJ, http://en.wikipedia.org/wiki/Annemasse_Aerodrome
+Nogales Int'l, NOG, http://en.wikipedia.org/wiki/Nogales_International_Airport_(Mexico)
+Strasbourg, SXB, http://en.wikipedia.org/wiki/Strasbourg_Airport
+Cologne/Bonn, CGN, http://en.wikipedia.org/wiki/Cologne_Bonn_Airport
+Kimhae Int'l, PUS, http://en.wikipedia.org/wiki/Gimhae_International_Airport
+Jeju Int'l, CJU, http://en.wikipedia.org/wiki/Jeju_International_Airport
+Stavanger Sola, SVG, http://en.wikipedia.org/wiki/Stavanger_Airport,_Sola
+Trondheim Vaernes, TRD, http://en.wikipedia.org/wiki/Trondheim_Airport%2C_V%C3%A6rnes
+Corumba Int'l, CMG, http://en.wikipedia.org/wiki/Corumba_International_Airport
+Madeira, FNC, http://en.wikipedia.org/wiki/Madeira_Airport
+Foz do Iguaçu Int'l, IGU, http://en.wikipedia.org/wiki/Foz_do_Igua%C3%A7u_International_Airport
+Gov. Jorge Teixeira de Oliveira Int'l, PVH, http://en.wikipedia.org/wiki/Governador_Jorge_Teixeira_de_Oliveira_International_Airport
+Bilbao, BIO, http://en.wikipedia.org/wiki/Bilbao_Airport
+Palma de Mallorca, PMI, http://en.wikipedia.org/wiki/Palma_de_Mallorca_Airport
+Tenerife N., TFN, http://en.wikipedia.org/wiki/Los_Rodeos_Airport
+Gothenburg, GOT, http://en.wikipedia.org/wiki/Gothenburg-Landvetter_Airport
+Lulea, LLA, http://en.wikipedia.org/wiki/Lule%C3%A5_Airport
+Abu Dhabi Int'l, AUH, http://en.wikipedia.org/wiki/Abu_Dhabi_International_Airport
+Mohamed Boudiaf Int'l, CZL, http://en.wikipedia.org/wiki/Mohamed_Boudiaf_International_Airport
+Aswan Int'l, ASW, http://en.wikipedia.org/wiki/Aswan_International_Airport
+Rovaniemi, RVN, http://en.wikipedia.org/wiki/Rovaniemi_Airport
+Cheddi Jagan Int'l, GEO, http://en.wikipedia.org/wiki/Cheddi_Jagan_International_Airport
+Cochin Int'l, COK, http://en.wikipedia.org/wiki/Cochin_International_Airport
+Eldoret Int'l, EDL, http://en.wikipedia.org/wiki/Eldoret_International_Airport
+Incheon Int'l, ICN, http://en.wikipedia.org/wiki/Incheon_International_Airport
+Federal de Bachigualato Int'l, CUL, http://en.wikipedia.org/wiki/Federal_de_Bachigualato_International_Airport
+Benazir Bhutto Int'l, ISB, http://en.wikipedia.org/wiki/Islamabad_International_Airport
+Brussels, BRU, http://en.wikipedia.org/wiki/Brussels_Airport
+Abuja Int'l, ABV, http://en.wikipedia.org/wiki/Nnamdi_Azikiwe_International_Airport
+Arcata-Eureka, ACV, http://en.wikipedia.org/wiki/Arcata-Eureka_Airport
+Austin-Bergstrom Int'l, AUS, http://en.wikipedia.org/wiki/Austin-Bergstrom_International_Airport
+Antalya, AYT, http://en.wikipedia.org/wiki/Antalya_Airport
+Belfast Int'l, BFS, http://en.wikipedia.org/wiki/Belfast_International_Airport
+Orio Al Serio, BGY, http://en.wikipedia.org/wiki/Orio_al_Serio_Airport
+Kota Kinabalu Int'l, BKI, http://en.wikipedia.org/wiki/Kota_Kinabalu_International_Airport
+Bengaluru Int'l, BLR, http://en.wikipedia.org/wiki/Bengaluru_International_Airport
+Canberra Int'l, CBR, http://en.wikipedia.org/wiki/Canberra_International_Airport
+Port Columbus Int'l, CMH, http://en.wikipedia.org/wiki/Port_Columbus_International_Airport
+Mohamed V Int'l, CMN, http://en.wikipedia.org/wiki/Mohammed_V_International_Airport
+Dusseldorf Int'l, DUS, http://en.wikipedia.org/wiki/D%C3%BCsseldorf_International_Airport
+Esenboga Int'l, ESB, http://en.wikipedia.org/wiki/Esenbo%C4%9Fa_International_Airport
+Hamilton Int'l, HLZ, http://en.wikipedia.org/wiki/Hamilton_International_Airport
+Rajiv Gandhi Int'l, HYD, http://en.wikipedia.org/wiki/Rajiv_Gandhi_International_Airport
+John F Kennedy Int'l, JFK, http://en.wikipedia.org/wiki/John_F._Kennedy_International_Airport
+Boryspil Int'l, KBP, http://en.wikipedia.org/wiki/Boryspil_International_Airport
+Khartoum, KRT, http://en.wikipedia.org/wiki/Khartoum_International_Airport
+Dane Cty. Reg. (Truax Field), MSN, http://en.wikipedia.org/wiki/Dane_County_Regional_Airport
+Minsk Int'l, MSQ, http://en.wikipedia.org/wiki/Minsk_International_Airport
+Palermo, PMO, http://en.wikipedia.org/wiki/Palermo_International_Airport
+T.F. Green, PVD, http://en.wikipedia.org/wiki/T._F._Green_Airport
+Southwest Florida Int'l, RSW, http://en.wikipedia.org/wiki/Southwest_Florida_International_Airport
+Shenyang Taoxian Int'l, SHE, http://en.wikipedia.org/wiki/Shenyang_Taoxian_International_Airport
+Sharjah Int'l, SHJ, http://en.wikipedia.org/wiki/Sharjah_International_Airport
+San Jose Int'l, SJC, http://en.wikipedia.org/wiki/San_Jose_International_Airport
+John Wayne, SNA, http://en.wikipedia.org/wiki/John_Wayne_Airport
+Stuttgart, STR, http://en.wikipedia.org/wiki/Stuttgart_Airport
+Nacional Tobias Bolanos, SYQ, http://en.wikipedia.org/wiki/Tob%C3%ADas_Bola%C3%B1os_International_Airport
+Shenzhen Bao'an Int'l, SZX, http://en.wikipedia.org/wiki/Shenzhen_airport
+Louisville Int'l, SDF, http://en.wikipedia.org/wiki/Louisville_International_Airport
+Geneva, GVA, http://en.wikipedia.org/wiki/Geneva_Cointrin_International_Airport
+Lyon-Saint Exupery, LYS, http://en.wikipedia.org/wiki/Lyon-Saint_Exup%C3%A9ry_Airport
+Kansai Int'l, KIX, http://en.wikipedia.org/wiki/Kansai_International_Airport
+Lisbon Portela, LIS, http://en.wikipedia.org/wiki/Lisbon_Portela_Airport
+Tancredo Neves Int'l, CNF, http://en.wikipedia.org/wiki/Tancredo_Neves_International_Airport
+Bromma, BMA, http://en.wikipedia.org/wiki/Stockholm-Bromma_Airport
+Juanda Int'l, SUB, http://en.wikipedia.org/wiki/Juanda_International_Airport
+Astor Piazzolla Int'l, MDQ, http://en.wikipedia.org/wiki/%C3%81stor_Piazzola_International_Airport
+Owen Roberts Int'l, GCM, http://en.wikipedia.org/wiki/Owen_Roberts_International_Airport
+Zhengzhou Xinzheng Int'l, CGO, http://en.wikipedia.org/wiki/Zhengzhou_Xinzheng_International_Airport
+Dalian Zhoushuizi Int'l, DLC, http://en.wikipedia.org/wiki/Dalian_Zhoushuizi_International_Airport
+Heraklion Int'l, HER, http://en.wikipedia.org/wiki/Heraklion_International_Airport%2C_%22Nikos_Kazantzakis%22
+Tbilisi Int'l, TBS, http://en.wikipedia.org/wiki/Tbilisi_International_Airport
+Cascais, XXC, http://en.wikipedia.org/wiki/Cascais_Aerodrome
+Kaohsiung Int'l, KHH, http://en.wikipedia.org/wiki/Kaohsiung_International_Airport
+Sadiq Abubakar III, SKO, http://en.wikipedia.org/wiki/Sadiq_Abubakar_III_International_Airport
+Mariscal Sucre Int'l, UIO, http://en.wikipedia.org/wiki/Mariscal_Sucre_International_Airport
+Karachi Civil, KHI, http://en.wikipedia.org/wiki/Jinnah_International_Airport
+Kishinev S.E., KIV, http://en.wikipedia.org/wiki/Chi%C5%9Fin%C4%83u_International_Airport
+Jorge Chavez, LIM, http://en.wikipedia.org/wiki/Jorge_Ch%C3%A1vez_International_Airport
+Thunder Bay Int'l, YQT, http://en.wikipedia.org/wiki/Thunder_Bay_International_Airport
+Vilnius, VNO, http://en.wikipedia.org/wiki/Vilnius_International_Airport
+Hsien Yang, XIY, http://en.wikipedia.org/wiki/Xi'an_Xianyang_International_Airport
+Del Norte Int'l, NTR, http://en.wikipedia.org/wiki/Del_Norte_International_Airport
+Fua'amotu Int'l, TBU, http://en.wikipedia.org/wiki/Fua'amotu_International_Airport
+Esfahan Int'l, IFN, http://en.wikipedia.org/wiki/Isfahan_International_Airport
+Harare Int'l, HRE, http://en.wikipedia.org/wiki/Harare_International_Airport
+Kuwait Int'l, KWI, http://en.wikipedia.org/wiki/Kuwait_International_Airport
+Macdonald-Cartier Int'l, YOW, http://en.wikipedia.org/wiki/Ottawa_Macdonald-Cartier_International_Airport
+Kabul Int'l, KBL, http://en.wikipedia.org/wiki/Kabul_International_Airport
+Abidjan Port Bouet, ABJ, http://en.wikipedia.org/wiki/Port_Bouet_Airport
+General Juan N Alvarez Int'l, ACA, http://en.wikipedia.org/wiki/General_Juan_N._%C3%81lvarez_International_Airport
+Kotoka Int'l, ACC, http://en.wikipedia.org/wiki/Kotoka_International_Airport
+Bole Int'l, ADD, http://en.wikipedia.org/wiki/Bole_International_Airport
+Aden Int'l, ADE, http://en.wikipedia.org/wiki/Aden_International_Airport
+Adelaide Int'l, ADL, http://en.wikipedia.org/wiki/Adelaide_International_Airport
+Almaty Int'l, ALA, http://en.wikipedia.org/wiki/Almaty_International_Airport
+Houari Boumediene, ALG, http://en.wikipedia.org/wiki/Houari_Boumedienne_Airport
+Aleppo Int'l, ALP, http://en.wikipedia.org/wiki/Aleppo_International_Airport
+Sardar Vallabhbhai Patel Int'l, AMD, http://en.wikipedia.org/wiki/Sardar_Vallabhbhai_Patel_International_Airport
+Cerro Moreno Int'l, ANF, http://en.wikipedia.org/wiki/Cerro_Moreno_International_Airport
+Ashkhabad Northwest, ASB, http://en.wikipedia.org/wiki/Ashgabat_Airport
+Yohannes Iv Int'l, ASM, http://en.wikipedia.org/wiki/Asmara_International_Airport
+Silvio Pettirossi Int'l, ASU, http://en.wikipedia.org/wiki/Silvio_Pettirossi_International_Airport
+Bermuda Int'l, BDA, http://en.wikipedia.org/wiki/Bermuda_International_Airport
+Surcin, BEG, http://en.wikipedia.org/wiki/Belgrade_Nikola_Tesla_Airport
+Beirut Int'l, BEY, http://en.wikipedia.org/wiki/Beirut_Rafic_Hariri_International_Airport
+Bairagarh, BHO, http://en.wikipedia.org/wiki/Bhopal_Airport
+Bamako Senou, BKO, http://en.wikipedia.org/wiki/Senou_International_Airport
+Nashville Int'l, BNA, http://en.wikipedia.org/wiki/Nashville_International_Airport
+Brisbane Int'l, BNE, http://en.wikipedia.org/wiki/Brisbane_Airport
+Boise Air Terminal, BOI, http://en.wikipedia.org/wiki/Boise_Airport
+Wiley Post Will Rogers Mem., BRW, http://en.wikipedia.org/wiki/Wiley_Post-Will_Rogers_Memorial_Airport
+Greater Buffalo Int'l, BUF, http://en.wikipedia.org/wiki/Buffalo_Niagara_International_Airport
+Bulawayo, BUQ, http://en.wikipedia.org/wiki/Joshua_Mqabuko_Nkomo_International_Airport
+Brunei Int'l, BWN, http://en.wikipedia.org/wiki/Brunei_International_Airport
+Guangzhou Baiyun Int'l, CAN, http://en.wikipedia.org/wiki/Guangzhou_Baiyun_International_Airport
+Carriel Sur Int'l, CCP, http://en.wikipedia.org/wiki/Carriel_Sur_International_Airport
+Netaji Subhash Chandra Bose Int'l, CCU, http://en.wikipedia.org/wiki/Netaji_Subhash_Chandra_Bose_International_Airport
+Chittagong, CGP, http://en.wikipedia.org/wiki/Shah_Amanat_International_Airport
+Christchurch Int'l, CHC, http://en.wikipedia.org/wiki/Christchurch_International_Airport
+Conakry, CKY, http://en.wikipedia.org/wiki/Conakry_International_Airport
+Hopkins Int'l, CLE, http://en.wikipedia.org/wiki/Cleveland_Hopkins_International_Airport
+Alfonso Bonilla Aragon Int'l, CLO, http://en.wikipedia.org/wiki/Alfonso_Bonilla_Arag%C3%B3n_International_Airport
+Cotonou Cadjehon, COO, http://en.wikipedia.org/wiki/Cadjehoun_Airport
+Ingeniero Ambrosio L.V. Taravella Int'l, COR, http://en.wikipedia.org/wiki/Ingeniero_Ambrosio_L.V._Taravella_International_Airport
+Rafael Nunez, CTG, http://en.wikipedia.org/wiki/Rafael_N%C3%BA%C3%B1ez_International_Airport
+Cancun, CUN, http://en.wikipedia.org/wiki/Canc%C3%BAn_International_Airport
+General R F Villalobos Int'l, CUU, http://en.wikipedia.org/wiki/General_Roberto_Fierro_Villalobos_International_Airport
+Zia Int'l Dhaka, DAC, http://en.wikipedia.org/wiki/Zia_International_Airport
+Darwin Int'l, DRW, http://en.wikipedia.org/wiki/Darwin_International_Airport
+Louis Botha, DUR, http://en.wikipedia.org/wiki/Durban_International_Airport
+Lubumbashi Luano Int'l, FBM, http://en.wikipedia.org/wiki/Lubumbashi_International_Airport
+Saiss, FEZ, http://en.wikipedia.org/wiki/Sa%C3%AFss_Airport
+Kinshasa N Djili Int'l, FIH, http://en.wikipedia.org/wiki/Kinshasa_International_Airport
+Freetown Lungi, FNA, http://en.wikipedia.org/wiki/Lungi_International_Airport
+Sunan, FNJ, http://en.wikipedia.org/wiki/Sunan_International_Airport
+Vasilyevka, FRU, http://en.wikipedia.org/wiki/Manas_International_Airport
+Sir Seretse Khama Int'l, GBE, http://en.wikipedia.org/wiki/Sir_Seretse_Khama_International_Airport
+Don Miguel Hidalgo Int'l, GDL, http://en.wikipedia.org/wiki/Don_Miguel_Hidalgo_y_Costilla_International_Airport
+Glasgow Int'l, GLA, http://en.wikipedia.org/wiki/Glasgow_International_Airport
+La Aurora, GUA, http://en.wikipedia.org/wiki/La_Aurora_International_Airport
+Simon Bolivar Int'l, GYE, http://en.wikipedia.org/wiki/Jos%C3%A9_Joaqu%C3%ADn_de_Olmedo_International_Airport
+Noi Bai, HAN, http://en.wikipedia.org/wiki/Noi_Bai_International_Airport
+Jose Marti Int'l, HAV, http://en.wikipedia.org/wiki/Jos%C3%A9_Mart%C3%AD_International_Airport
+Borg El Arab Int'l, HBE, http://en.wikipedia.org/wiki/Borg_El_Arab_Airport
+King Abdul Aziz Int'l, JED, http://en.wikipedia.org/wiki/King_Abdulaziz_International_Airport
+Kano Mallam Aminu Int'l, KAN, http://en.wikipedia.org/wiki/Mallam_Aminu_Kano_International_Airport
+Kashi, KHG, http://en.wikipedia.org/wiki/Kashgar_Airport
+Norman Manley Int'l, KIN, http://en.wikipedia.org/wiki/Norman_Manley_International_Airport
+Tribhuvan Int'l, KTM, http://en.wikipedia.org/wiki/Tribhuvan_International_Airport
+Luanda 4 de Fevereiro, LAD, http://en.wikipedia.org/wiki/Quatro_de_Fevereiro_Airport
+Pulkovo 2, LED, http://en.wikipedia.org/wiki/Pulkovo_Airport
+Allama Iqbal Int'l, LHE, http://en.wikipedia.org/wiki/Allama_Iqbal_International_Airport
+Kamuzu Int'l, LLW, http://en.wikipedia.org/wiki/Lilongwe_International_Airport
+Lagos Murtala Muhammed, LOS, http://en.wikipedia.org/wiki/Murtala_Mohammed_International_Airport
+El Alto Int'l, LPB, http://en.wikipedia.org/wiki/El_Alto_International_Airport
+Lusaka Int'l, LUN, http://en.wikipedia.org/wiki/Lusaka_International_Airport
+Luxor, LXR, http://en.wikipedia.org/wiki/Luxor_International_Airport
+Chennai Int'l, MAA, http://en.wikipedia.org/wiki/Chennai_International_Airport
+La Chinita Int'l, MAR, http://en.wikipedia.org/wiki/La_Chinita_International_Airport
+Jose Maria Cordova, MDE, http://en.wikipedia.org/wiki/Jos%C3%A9_Mar%C3%ADa_C%C3%B3rdova_International_Airport
+Memphis Int'l, MEM, http://en.wikipedia.org/wiki/Memphis_International_Airport
+Augusto Cesar Sandino Int'l, MGA, http://en.wikipedia.org/wiki/Augusto_C._Sandino_International_Airport
+Mashhad, MHD, http://en.wikipedia.org/wiki/Mashhad_International_Airport
+Miami Int'l, MIA, http://en.wikipedia.org/wiki/Miami_International_Airport
+Lic M Crecencio Rejon Int'l, MID, http://en.wikipedia.org/wiki/Manuel_Crescencio_Rej%C3%B3n_International_Airport
+Luqa, MLA, http://en.wikipedia.org/wiki/Malta_International_Airport
+Moi Int'l, MBA, http://en.wikipedia.org/wiki/Moi_International_Airport
+Moshoeshoe I Int'l, MSU, http://en.wikipedia.org/wiki/Moshoeshoe_I_International_Airport
+New Orleans Int'l, MSY, http://en.wikipedia.org/wiki/Louis_Armstrong_New_Orleans_International_Airport
+Multan, MUX, http://en.wikipedia.org/wiki/Multan_International_Airport
+Carrasco Int'l, MVD, http://en.wikipedia.org/wiki/Carrasco_International_Airport
+General Rafael Buelna Int'l, MZT, http://en.wikipedia.org/wiki/General_Rafael_Buelna_International_Airport
+Nassau Int'l, NAS, http://en.wikipedia.org/wiki/Lynden_Pindling_International_Airport
+Ndjamena, NDJ, http://en.wikipedia.org/wiki/N'Djamena_International_Airport
+Niamey, NIM, http://en.wikipedia.org/wiki/Diori_Hamani_International_Airport
+Mactan-Cebu Int'l, CEB, http://en.wikipedia.org/wiki/Mactan-Cebu_International_Airport
+Nova Lisboa, NOV, http://en.wikipedia.org/wiki/Nova_Lisboa_Airport
+Eppley Airfield, OMA, http://en.wikipedia.org/wiki/Eppley_Airfield
+Nome, OME, http://en.wikipedia.org/wiki/Nome_Airport
+Ouagadougou, OUA, http://en.wikipedia.org/wiki/Ouagadougou_Airport
+Mais Gate Int'l, PAP, http://en.wikipedia.org/wiki/Toussaint_Louverture_International_Airport
+Puebla, PBC, http://en.wikipedia.org/wiki/Hermanos_Serd%C3%A1n_International_Airport
+Portland Int'l, PDX, http://en.wikipedia.org/wiki/Portland_International_Airport
+Perth Int'l, PER, http://en.wikipedia.org/wiki/Perth_Airport
+H F Verwoerd, PLZ, http://en.wikipedia.org/wiki/Port_Elizabeth_Airport
+El Tepual Int'l, PMC, http://en.wikipedia.org/wiki/El_Tepual_Airport
+Pochentong, PNH, http://en.wikipedia.org/wiki/Phnom_Penh_International_Airport
+Pune, PNQ, http://en.wikipedia.org/wiki/Pune_Airport
+Port Moresby Int'l, POM, http://en.wikipedia.org/wiki/Jacksons_International_Airport
+Tocumen Int'l, PTY, http://en.wikipedia.org/wiki/Tocumen_International_Airport
+Carlos Ibanez de Campo Int'l, PUQ, http://en.wikipedia.org/wiki/Carlos_Ibanez_Del_Campo_International_Airport
+Durham Int'l, RDU, http://en.wikipedia.org/wiki/Raleigh-Durham_International_Airport
+Mingaladon, RGN, http://en.wikipedia.org/wiki/Yangon_International_Airport
+Riga, RIX, http://en.wikipedia.org/wiki/Riga_International_Airport
+Sanaa Int'l, SAH, http://en.wikipedia.org/wiki/Sana'a_International_Airport
+Baghdad Int'l, SDA, http://en.wikipedia.org/wiki/Baghdad_International_Airport
+De Las Americas Int'l, SDQ, http://en.wikipedia.org/wiki/Las_Am%C3%A9ricas_International_Airport
+Tan Son Nhat, SGN, http://en.wikipedia.org/wiki/Tan_Son_Nhat_International_Airport
+Thessaloniki, SKG, http://en.wikipedia.org/wiki/Thessaloniki_International_Airport%2C_%22Macedonia%22
+Vrazhdebna, SOF, http://en.wikipedia.org/wiki/Sofia_Airport
+Surat, STV, http://en.wikipedia.org/wiki/Surat_Airport
+Nausori Int'l, SUV, http://en.wikipedia.org/wiki/Nausori_International_Airport
+Shiraz Int'l, SYZ, http://en.wikipedia.org/wiki/Shiraz_International_Airport
+Gen Francisco J Mina Int'l, TAM, http://en.wikipedia.org/wiki/General_Francisco_Javier_Mina_International_Airport
+Toncontin Int'l, TGU, http://en.wikipedia.org/wiki/Toncont%C3%ADn_International_Airport
+Mehrabad Int'l, THR, http://en.wikipedia.org/wiki/Mehrabad_International_Airport
+Tirane Rinas, TIA, http://en.wikipedia.org/wiki/Tirana_International_Airport_N%C3%ABn%C3%AB_Tereza
+General Abelardo L Rodriguez Int'l, TIJ, http://en.wikipedia.org/wiki/General_Abelardo_L._Rodr%C3%ADguez_International_Airport
+Jose Maria Morelos Y Pavon, TLC, http://en.wikipedia.org/wiki/Lic._Adolfo_L%C3%B3pez_Mateos_International_Airport
+Ulemiste, TLL, http://en.wikipedia.org/wiki/Tallinn_Airport
+Ben Gurion, TLV, http://en.wikipedia.org/wiki/Ben_Gurion_International_Airport
+Sao Tome Salazar, TMS, http://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_International_Airport
+Antananarivo Ivato, TNR, http://en.wikipedia.org/wiki/Ivato_Airport
+Tampa Int'l, TPA, http://en.wikipedia.org/wiki/Tampa_International_Airport
+Zim Valencia, VLN, http://en.wikipedia.org/wiki/Arturo_Michelena_International_Airport
+Gumrak, VOG, http://en.wikipedia.org/wiki/Volgograd_International_Airport
+Vientiane, VTE, http://en.wikipedia.org/wiki/Wattay_International_Airport
+Viru Viru Int'l, VVI, http://en.wikipedia.org/wiki/Viru_Viru_International_Airport
+Wellington Int'l, WLG, http://en.wikipedia.org/wiki/Wellington_International_Airport
+Prince Rupert, YPR, http://en.wikipedia.org/wiki/Prince_Rupert_Airport
+Windsor, YQG, http://en.wikipedia.org/wiki/Windsor_Airport
+Regina, YQR, http://en.wikipedia.org/wiki/Regina_International_Airport
+Vancouver Int'l, YVR, http://en.wikipedia.org/wiki/Vancouver_International_Airport
+Winnipeg Int'l, YWG, http://en.wikipedia.org/wiki/Winnipeg_James_Armstrong_Richardson_International_Airport
+John G Diefenbaker Int'l, YXE, http://en.wikipedia.org/wiki/Saskatoon/John_G._Diefenbaker_International_Airport
+Whitehorse Int'l, YXY, http://en.wikipedia.org/wiki/Whitehorse_International_Airport
+Calgary Int'l, YYC, http://en.wikipedia.org/wiki/Calgary_International_Airport
+Charlottetown, YYG, http://en.wikipedia.org/wiki/Charlottetown_Airport
+Churchill, YYQ, http://en.wikipedia.org/wiki/Churchill_Airport
+St John's Int'l, YYT, http://en.wikipedia.org/wiki/St._John's_International_Airport
+Yellowknife, YZF, http://en.wikipedia.org/wiki/Yellowknife_Airport
+Zagreb, ZAG, http://en.wikipedia.org/wiki/Zagreb_Airport
+Zanzibar, ZNZ, http://en.wikipedia.org/wiki/Zanzibar_International_Airport
+Reykjavik Air Terminal, REK, http://en.wikipedia.org/wiki/Reykjav%C3%ADk_Airport
+Arkhangelsk-Talagi, ARH, http://en.wikipedia.org/wiki/Talagi_Airport
+Kazan Int'l, KZN, http://en.wikipedia.org/wiki/Kazan_International_Airport
+Paris Orly, ORY, http://en.wikipedia.org/wiki/Orly_Airport_(Paris)
+Quebec, YQB, http://en.wikipedia.org/wiki/Qu%C3%A9bec/Jean_Lesage_International_Airport
+Montreal-Trudeau, YUL, http://en.wikipedia.org/wiki/Montr%C3%A9al-Pierre_Elliott_Trudeau_International_Airport
+Narita Int'l, NRT, http://en.wikipedia.org/wiki/Narita_International_Airport
+Chubu Centrair Int'l, NGO, http://en.wikipedia.org/wiki/Ch%C5%ABbu_Centrair_International_Airport
+Okadama, OKD, http://en.wikipedia.org/wiki/Okadama_Airport
+Bergen Flesland, BGO, http://en.wikipedia.org/wiki/Bergen_Airport%2C_Flesland
+Tromso Langnes, TOS, http://en.wikipedia.org/wiki/Troms%C3%B8_Airport
+Val de Caes Int'l, BEL, http://en.wikipedia.org/wiki/Val_de_C%C3%A3es_International_Airport
+Campo Grande Int'l, CGR, http://en.wikipedia.org/wiki/Campo_Grande_International_Airport
+Afonso Pena Int'l, CWB, http://en.wikipedia.org/wiki/Afonso_Pena_International_Airport
+Pinto Martins Int'l, FOR, http://en.wikipedia.org/wiki/Pinto_Martins_International_Airport
+Sao Paulo-Guarulhos Int'l, GRU, http://en.wikipedia.org/wiki/S%C3%A3o_Paulo-Guarulhos_International_Airport
+Santa Genoveva, GYN, http://en.wikipedia.org/wiki/Santa_Genoveva_Airport
+Salgado Filho Int'l, POA, http://en.wikipedia.org/wiki/Salgado_Filho_International_Airport
+Gilberto Freyre Int'l, REC, http://en.wikipedia.org/wiki/Guararapes_International_Airport
+Deputado Luis Eduardo Magalhaes Int'l, SSA, http://en.wikipedia.org/wiki/Deputado_Lu%C3%ADs_Eduardo_Magalh%C3%A3es_International_Airport
+El Plumerillo, MDZ, http://en.wikipedia.org/wiki/Governor_Francisco_Gabrielli_International_Airport
+Eduardo Gomes Int'l, MAO, http://en.wikipedia.org/wiki/Eduardo_Gomes_International_Airport
+Yaounde Nsimalen Int'l, NSI, http://en.wikipedia.org/wiki/Yaound%C3%A9_Nsimalen_International_Airport
+Shanghai Pudong Int'l, PVG, http://en.wikipedia.org/wiki/Shanghai_Pudong_International_Airport
+Marka Int'l, ADJ, http://en.wikipedia.org/wiki/Marka_Airport
+Male Int'l, MLE, http://en.wikipedia.org/wiki/Mal%C3%A9_International_Airport
+Gen. Heriberto Jara Int'l, VER, http://en.wikipedia.org/wiki/General_Heriberto_Jara_International_Airport
+Osvaldo Vieira Int'l, OXB, http://en.wikipedia.org/wiki/Osvaldo_Vieira_International_Airport
+Francisco Bangoy Int'l, DVO, http://en.wikipedia.org/wiki/Francisco_Bangoy_International_Airport
+Seychelles Int'l, SEZ, http://en.wikipedia.org/wiki/Seychelles_International_Airport
+Leopold Sedar Senghor Int'l, DKR, http://en.wikipedia.org/wiki/Dakar-Yoff-L%C3%A9opold_S%C3%A9dar_Senghor_International_Airport
+Port Sudan New Int'l, PZU, http://en.wikipedia.org/wiki/Port_Sudan_New_International_Airport
+Tashkent Int'l, TAS, http://en.wikipedia.org/wiki/Tashkent_International_Airport
+Copenhagen, CPH, http://en.wikipedia.org/wiki/Copenhagen_Airport
+Aeroportul National Bucuresti-Baneasa, BBU, http://en.wikipedia.org/wiki/Aurel_Vlaicu_International_Airport
+Ferihegy, BUD, http://en.wikipedia.org/wiki/Budapest_Ferihegy_International_Airport
+Chongqing Jiangbei Int'l, CKG, http://en.wikipedia.org/wiki/Chongqing_Jiangbei_International_Airport
+Douglas Int'l, CLT, http://en.wikipedia.org/wiki/Charlotte/Douglas_International_Airport
+Detroit Metro, DTW, http://en.wikipedia.org/wiki/Detroit_Metropolitan_Wayne_County_Airport
+Dublin, DUB, http://en.wikipedia.org/wiki/Dublin_Airport
+Fairbanks Int'l, FAI, http://en.wikipedia.org/wiki/Fairbanks_International_Airport
+Hamburg, HAM, http://en.wikipedia.org/wiki/Hamburg_Airport
+Kuala Lumpur Int'l, KUL, http://en.wikipedia.org/wiki/Kuala_Lumpur_International_Airport
+Orlando Int'l, MCO, http://en.wikipedia.org/wiki/Orlando_International_Airport
+Minneapolis St. Paul Int'l, MSP, http://en.wikipedia.org/wiki/Minneapolis-Saint_Paul_International_Airport
+Franz-Josef-Strauss, MUC, http://en.wikipedia.org/wiki/Munich_International_Airport
+Philadelphia Int'l, PHL, http://en.wikipedia.org/wiki/Philadelphia_International_Airport
+Sky Harbor Int'l, PHX, http://en.wikipedia.org/wiki/Phoenix_Sky_Harbor_International_Airport
+Salt Lake City Int'l, SLC, http://en.wikipedia.org/wiki/Salt_Lake_City_International_Airport
+Lambert St Louis Int'l, STL, http://en.wikipedia.org/wiki/Lambert-St._Louis_International_Airport
+Okecie Int'l, WAW, http://en.wikipedia.org/wiki/Warsaw_Frederic_Chopin_Airport
+Zurich Int'l, ZRH, http://en.wikipedia.org/wiki/Z%C3%BCrich_Airport
+Gosselies, CRL, http://en.wikipedia.org/wiki/Brussels_South_Charleroi_Airport
+Munich Freight Terminal, MUCf, http://en.wikipedia.org/wiki/Munich_Airport
+Barcelona, BCN, http://en.wikipedia.org/wiki/Barcelona_International_Airport
+Ruzyn, PRG, http://en.wikipedia.org/wiki/Ruzyn%C4%9B_International_Airport
+Hong Kong Int'l, HKG, http://en.wikipedia.org/wiki/Hong_Kong_International_Airport
+Taoyuan, TPE, http://en.wikipedia.org/wiki/Taiwan_Taoyuan_International_Airport
+Schiphol, AMS, http://en.wikipedia.org/wiki/Amsterdam_Schiphol_Airport
+Singapore Changi, SIN, http://en.wikipedia.org/wiki/Singapore_Changi_Airport
+London Heathrow, LHR, http://en.wikipedia.org/wiki/London_Heathrow_Airport
+Auckland Int'l, AKL, http://en.wikipedia.org/wiki/Auckland_International_Airport
+Anchorage Int'l, ANC, http://en.wikipedia.org/wiki/Lake_Hood_Seaplane_Base
+Hartsfield-Jackson Atlanta Int'l, ATL, http://en.wikipedia.org/wiki/Hartsfield-Jackson_Atlanta_International_Airport
+Beijing Capital, PEK, http://en.wikipedia.org/wiki/Beijing_Capital_International_Airport
+Eldorado Int'l, BOG, http://en.wikipedia.org/wiki/El_Dorado_International_Airport
+Chhatrapati Shivaji Int'l, BOM, http://en.wikipedia.org/wiki/Chhatrapati_Shivaji_International_Airport
+Gen E L Logan Int'l, BOS, http://en.wikipedia.org/wiki/Logan_International_Airport
+Baltimore-Washington Int'l Thurgood Marshall, BWI, http://en.wikipedia.org/wiki/Baltimore-Washington_International_Thurgood_Marshall_Airport
+Cairo Int'l, CAI, http://en.wikipedia.org/wiki/Cairo_International_Airport
+Casablanca-Anfa, CAS, http://en.wikipedia.org/wiki/Casablanca-Anfa_Airport
+Simon Bolivar Int'l, CCS, http://en.wikipedia.org/wiki/Sim%C3%B3n_Bol%C3%ADvar_International_Airport
+Cape Town Int'l, CPT, http://en.wikipedia.org/wiki/Cape_Town_International_Airport
+Chengdushuang Liu, CTU, http://en.wikipedia.org/wiki/Chengdu_Shuangliu_International_Airport
+Indira Gandhi Int'l, DEL, http://en.wikipedia.org/wiki/Indira_Gandhi_International_Airport
+Denver Int'l, DEN, http://en.wikipedia.org/wiki/Denver_International_Airport
+Dallas-Ft. Worth Int'l, DFW, http://en.wikipedia.org/wiki/Dallas-Fort_Worth_International_Airport
+Don Muang Int'l, DMK, http://en.wikipedia.org/wiki/Don_Mueang_International_Airport
+Dubai Int'l, DXB, http://en.wikipedia.org/wiki/Dubai_International_Airport
+Newark Int'l, EWR, http://en.wikipedia.org/wiki/Newark_Liberty_International_Airport
+Ministro Pistarini Int'l, EZE, http://en.wikipedia.org/wiki/Ministro_Pistarini_International_Airport
+Fort Lauderdale Hollywood Int'l, FLL, http://en.wikipedia.org/wiki/Fort_Lauderdale-Hollywood_International_Airport
+George Bush Intercontinental, IAH, http://en.wikipedia.org/w

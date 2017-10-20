@@ -1,0 +1,310 @@
+  {% extends "base_generic.html" %}
+  {% load static %}
+  <script type="text/javascript" src="https://code.jquery.com/jquery-1.9.1.min.js"></script>
+  <link href="{% static '/css/chat.css' %}" rel="stylesheet" type="text/css">
+  <script type="text/javascript" src="{% static '/js/converse.js' %}"></script>
+  <script type="text/javascript" src="{% static '/tts/artyom.window.min.js' %}"></script>
+  <script type="text/javascript" src="{% static '/tts/artyom.js' %}"></script>
+  <script type="text/javascript" src="{% static '/tts/artyom.window.js' %}"></script>
+
+
+  {% block content %}
+  <div class="box box-primary direct-chat direct-chat-primary">
+      <div class="box-header with-border">
+        <h3 class="box-title">Chat with CESLeA</h3>
+          <div style="float:right;"> <a style="cursor:pointer; cursor:hand;" onclick="startDictation()"> <img style="margin-top:17px;" height="40px" width="40px" src="{% static '/img/mic.png'%}" /></a></div><!-- /.box-header -->
+
+      </div>
+
+      {% block conversationresults %}{% include 'conversationresults.html'%} {% endblock%}
+
+      <div class="box-footer">
+
+          <form id= "capture"  method="POST" name="forvirtual">
+              {% csrf_token %}
+              <div class="input-group">
+                  <input type="text" name="message" id="converse" placeholder="Type Chat if CESLeA has no response..." class="form-control">
+                  <input type="hidden"   id="trackingagentresponse" value="" name="track">
+                  <input type="hidden"   id="calledceslea" value="" name="called">
+                  <span class="input-group-btn">
+                      <button type="submit" id="send" class="btn btn-primary btn-flat">Send</button>
+
+                  </span>
+
+              </div>
+            </form>
+      </div><!-- /.box-footer-->
+  </div><!--/.direct-chat -->
+  {% block flight %}{% include 'flights.html'%} {% endblock%}
+
+{% load static %}
+<script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
+<script type="text/javascript" src="{% static '/js/converse.js' %}"></script>
+<script type="text/javascript" src="{% static '/tts/artyom.window.min.js' %}"></script>
+<script type="text/javascript" src="{% static '/tts/artyom.js' %}"></script>
+<script type="text/javascript" src="{% static '/tts/artyom.window.js' %}"></script>
+<script>
+
+
+ //For getting CSRF token
+function getCookie(name) {
+          var cookieValue = null;
+          if (document.cookie && document.cookie != '') {
+                var cookies = document.cookie.split(';');
+          for (var i = 0; i < cookies.length; i++) {
+               var cookie = jQuery.trim(cookies[i]);
+          // Does this cookie string begin with the name we want?
+          if (cookie.substring(0, name.length + 1) == (name + '=')) {
+            cookieValue = decodeURIComponent(cookie.substring(name.length + 1));
+              break;
+             }
+          }
+      }
+ return cookieValue;
+}
+
+//For performing an Ajax post
+
+//When submit is clicked
+ $("#send").click(function(e) {
+
+//Prevent default submit. Must for Ajax post.Beginner's pit.
+ e.preventDefault();
+
+//Prepare csrf token
+ var csrftoken = getCookie('csrftoken');
+
+
+//Collect data from fields
+ var message = $('#converse').val();
+ var trackingagentresponse = $('#trackingagentresponse').val();
+ var calledceslea = $('#calledceslea').val();
+
+ if (message =="Okay")
+ {
+        $('.headforflight').append('<div id="loader"></div><div class="callout callout-info"><div id="taglineflights">Disclaimer!</div>\
+                                     <p>The Best Five flights to your Destination</p>\
+                                     </div>');
+ }
+
+//This is the Ajax post.Observe carefully. It is nothing but details of where_to_post,what_to_post
+//Send data
+ $.ajax({
+       url : window.location.href, // the endpoint,commonly same url
+       type : "POST", // http method
+       data : { csrfmiddlewaretoken : csrftoken, message : message, trackingagentresponse:trackingagentresponse, calledceslea:calledceslea , },  // data sent with the post request
+
+ // handle a successful response
+ success : function(jsonresults) {
+
+ //This is for the tts
+ //////////////////////////////////////////////
+    const artyom = new Artyom();
+    artyom.say(jsonresults.agentresponse);
+
+ //////////////////////////////////////////////
+    if (message=="CESLeA" || calledceslea!= "")
+    {
+
+
+                        var message = $('.direct-chat-msg').first().clone();
+                        message.find('#us').text(jsonresults.textedmessage);
+                        message.find('#usc').text(jsonresults.agentresponse);
+                        message.prependTo('.box-body');
+
+
+
+
+                        document.getElementById("trackingagentresponse").value = jsonresults.agentresponse;
+                        document.getElementById("calledceslea").value = jsonresults.calledceslea;
+                        $('#converse').val('');
+
+     //startDictation();
+
+    }
+
+<!--*********************************************Appendinging the flight results***************************************************************-->
+    if(jsonresults.hasOwnProperty('flightinfo'))
+    {
+
+        var jsonResultlen = Object.keys(jsonresults['flightinfo']).length;
+        var stringJsonResults = JSON.stringify(jsonresults);
+        var parsedJsonResults = JSON.parse(stringJsonResults);
+        var count = 1;
+
+        for(i=0; i<jsonResultlen; i++)
+        {
+            $('.flightdata').append('<div class="box box-default">\
+                          <div class="box-header with-border">Deal ' + count +'</div>\
+                          <div class="box-body"><div id="testingbackground">\
+                           Air Line: '+ parsedJsonResults['flightinfo'][i]['airline'] +'<br/>\
+                           Plane: '+ parsedJsonResults['flightinfo'][i]['plane'] +'<br/>\
+                           Price: '+parsedJsonResults['flightinfo'][i]['ticketprice'] +'<br/>\
+                           Flight Duration: '+ parsedJsonResults['flightinfo'][i]['flightduration'] +'<br/>\
+                           Air Plane Code: '+parsedJsonResults['flightinfo'][i]['planecode'] +'<br/>\
+                           Stops: '+parsedJsonResults['flightinfo'][i]['stops'] +'<br/>\
+                           Departure Date: '+parsedJsonResults['flightinfo'][i]['departuredate']+':'+parsedJsonResults['flightinfo'][i]['departuretime']  +'<br/>\
+                           Departure Airport: '+parsedJsonResults['flightinfo'][i]['departure'] +'<br/>\
+                           Arrival Airport: '+parsedJsonResults['flightinfo'][i]['arrival'] +'<br/><br/>\
+                           <div class="timings"></div></div></div></div>');
+
+
+           <!--timingLen = Object.keys(parsedJsonResults['flightinfo'][i]['timings']).length;-->
+           <!--for(j=0; j<timingLen; j++)-->
+           <!--{-->
+
+           <!--$('.timings').append('Departure Airport: '+parsedJsonResults['flightinfo'][i]['timings'][j]['departureairport'] + ': '+ parsedJsonResults['flightinfo'][i]['timings'][j]['departuretime']+ '<br/>\-->
+           <!--Arrival Airport: '+parsedJsonResults['flightinfo'][i]['timings'][j]['arrivalairport'] + ': '+ parsedJsonResults['flightinfo'][i]['timings'][j]['arrivaltime']+ '<br/>');-->
+
+           <!--}-->
+
+            count = count + 1;
+        }
+     }
+     document.getElementById("loader").style.display = "none";
+
+<!--*********************************************End of the flight results***************************************************************-->
+
+
+ console.log(jsonresults); // another sanity check
+ },
+
+ // handle a non-successful response
+ error : function(xhr,errmsg,err) {
+ console.log(xhr.status + ": " + xhr.responseText); // provide a bit more info about the error to the console
+ }
+ });
+});
+
+
+function startDictation() {
+    //Prepare csrf token
+     var csrftoken = getCookie('csrftoken');
+
+
+      var trackingagentresponse = $('#trackingagentresponse').val();
+      var calledceslea = $('#calledceslea').val();
+
+
+      if (window.hasOwnProperty('webkitSpeechRecognition')) {
+          var recognition = new webkitSpeechRecognition();
+
+          recognition.continuous = false;
+          recognition.interimResults = false;
+          recognition.lang = "en-US";
+          recognition.start();
+
+          recognition.onresult = function (e) {
+
+              var result = e.results[0][0].transcript;
+              var message = result;
+
+              recognition.stop();
+              if (message == "Cecilia")
+              {
+              message = "CESLeA";
+              }
+
+               if (message =="Okay")
+               {
+                $('.headforflight').append('<div id="loader"></div><div class="callout callout-info"><div id="taglineflights">Disclaimer!</div>\
+                                     <p>The Best Five flights to your Destination</p>\
+                                     </div>');
+               }
+
+            $.ajax({
+            url: 'http://127.0.0.1:8000/travelagent/conversation',
+            type: 'POST',
+            data: {'csrfmiddlewaretoken' : csrftoken, 'message': message, 'trackingagentresponse':trackingagentresponse, 'calledceslea' : calledceslea},
+            success: function (result) {
+
+ <!--************************************************************************-->
+             //This is for the tts
+ //////////////////////////////////////////////
+    const artyom = new Artyom();
+    artyom.say(result.agentresponse);
+ //////////////////////////////////////////////
+    if (message=="CESLeA" || calledceslea!= "")
+    {
+        $('.conversationmessages').append('<div class="box-body"><div class="direct-chat-messages">\
+                      <div class="direct-chat-msg">\
+                          <div class="direct-chat-info clearfix">\
+                              <span class="direct-chat-name pull-left">User</span>\
+                              <span class="direct-chat-timestamp pull-right">'+ result.time +'</span>\
+                          </div>\
+                          <img class="direct-chat-img" src="{% static '/img/user.jpg' %}" alt="message user image">\
+                          <div class="direct-chat-text">'+result.textedmessage+'</div>\
+                      </div>\
+                      <div class="direct-chat-msg right">\
+                        <div class="direct-chat-info clearfix">\
+                          <span class="direct-chat-name pull-right">CESLeA</span>\
+                          <span class="direct-chat-timestamp pull-left">'+ result.time +'</span>\
+                        </div>\
+                        <img class="direct-chat-img" src="{% static '/img/avatar.png' %}" alt="message user image">\
+                        <div class="direct-chat-text">'+ result.agentresponse +'</div></div></div></div>');
+
+                        document.getElementById("trackingagentresponse").value = result.agentresponse;
+                        document.getElementById("calledceslea").value = result.calledceslea;
+
+
+     }
+    <!--************************************************************************-->
+
+
+    <!--*********************************************Appendinging the flight results***************************************************************-->
+    if(result.hasOwnProperty('flightinfo'))
+    {
+
+        var jsonResultlen = Object.keys(result['flightinfo']).length;
+        var stringJsonResults = JSON.stringify(result);
+        var parsedJsonResults = JSON.parse(stringJsonResults);
+        var count = 1;
+
+        for(i=0; i<jsonResultlen; i++)
+        {
+            $('.flightdata').append('<div class="box box-default">\
+                          <div class="box-header with-border">Deal ' + count +'</div>\
+                          <div class="box-body"><div id="testingbackground">\
+                           Air Line: '+ parsedJsonResults['flightinfo'][i]['airline'] +'<br/>\
+                           Plane: '+ parsedJsonResults['flightinfo'][i]['plane'] +'<br/>\
+                           Price: '+parsedJsonResults['flightinfo'][i]['ticketprice'] +'<br/>\
+                           Flight Duration: '+ parsedJsonResults['flightinfo'][i]['flightduration'] +'<br/>\
+                           Air Plane Code: '+parsedJsonResults['flightinfo'][i]['planecode'] +'<br/>\
+                           Stops: '+parsedJsonResults['flightinfo'][i]['stops'] +'<br/>\
+                           Departure Date: '+parsedJsonResults['flightinfo'][i]['departuredate']+':'+parsedJsonResults['flightinfo'][i]['departuretime']  +'<br/>\
+                           Departure Airport: '+parsedJsonResults['flightinfo'][i]['departure'] +'<br/>\
+                           Arrival Airport: '+parsedJsonResults['flightinfo'][i]['arrival'] +'<br/><br/>\
+                           <div class="timings"></div></div></div></div>');
+
+
+           <!--timingLen = Object.keys(parsedJsonResults['flightinfo'][i]['timings']).length;-->
+           <!--for(j=0; j<timingLen; j++)-->
+           <!--{-->
+
+           <!--$('.timings').append('Departure Airport: '+parsedJsonResults['flightinfo'][i]['timings'][j]['departureairport'] + ': '+ parsedJsonResults['flightinfo'][i]['timings'][j]['departuretime']+ '<br/>\-->
+           <!--Arrival Airport: '+parsedJsonResults['flightinfo'][i]['timings'][j]['arrivalairport'] + ': '+ parsedJsonResults['flightinfo'][i]['timings'][j]['arrivaltime']+ '<br/>');-->
+
+           <!--}-->
+
+            count = count + 1;
+        }
+     }
+
+      } //Ending voice recognition
+        });
+
+              console.log(result);
+
+          };
+
+          recognition.onerror = function (e) {
+              recognition.stop();
+          }
+
+      }
+  }
+
+</script>
+
+  {% endblock %}
+
