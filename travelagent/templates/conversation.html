@@ -35,7 +35,8 @@
             </form>
       </div><!-- /.box-footer-->
   </div><!--/.direct-chat -->
-  {% block flight %}{% include 'flights.html'%} {% endblock%}
+  {%block flight %}{% include 'flights.html' %} {%endblock%}
+  {%block hotel %}{% include 'hotels.html' %} {%endblock%}
 
 {% load static %}
 <script src="http://code.jquery.com/jquery-2.1.4.min.js"></script>
@@ -43,8 +44,8 @@
 <script type="text/javascript" src="{% static '/tts/artyom.window.min.js' %}"></script>
 <script type="text/javascript" src="{% static '/tts/artyom.js' %}"></script>
 <script type="text/javascript" src="{% static '/tts/artyom.window.js' %}"></script>
-<script>
 
+<script>
 
  //For getting CSRF token
 function getCookie(name) {
@@ -80,14 +81,14 @@ function getCookie(name) {
  var trackingagentresponse = $('#trackingagentresponse').val();
  var calledceslea = $('#calledceslea').val();
 
- if (message =="Okay")
+ if (message == "Okay")
  {
         $('.headforflight').append('<div id="loader"></div><div class="callout callout-info"><div id="taglineflights">Disclaimer!</div>\
                                      <p>The Best Five flights to your Destination</p>\
                                      </div>');
  }
 
-//This is the Ajax post.Observe carefully. It is nothing but details of where_to_post,what_to_post
+//This is the Ajax post.Observe carefully. It is nothing but details of where_to_post, and what_to_post
 //Send data
  $.ajax({
        url : window.location.href, // the endpoint,commonly same url
@@ -96,6 +97,7 @@ function getCookie(name) {
 
  // handle a successful response
  success : function(jsonresults) {
+
 
  //This is for the tts
  //////////////////////////////////////////////
@@ -122,6 +124,7 @@ function getCookie(name) {
                         <img class="direct-chat-img" src="{% static '/img/avatar.png' %}" alt="message user image">\
                         <div class="direct-chat-text">'+ jsonresults.agentresponse +'</div></div></div></div>');
 
+            <!--Then you can update the trackingagentresponse field and calledceslea field-->
                         document.getElementById("trackingagentresponse").value = jsonresults.agentresponse;
                         document.getElementById("calledceslea").value = jsonresults.calledceslea;
                         $('#converse').val('');
@@ -155,22 +158,42 @@ function getCookie(name) {
                            Arrival Airport: '+parsedJsonResults['flightinfo'][i]['arrival'] +'<br/><br/>\
                            <div class="timings"></div></div></div></div>');
 
+            count = count + 1;
+        }
+     }
 
-           <!--timingLen = Object.keys(parsedJsonResults['flightinfo'][i]['timings']).length;-->
-           <!--for(j=0; j<timingLen; j++)-->
-           <!--{-->
+<!--*********************************************End of the flight results***************************************************************-->
 
-           <!--$('.timings').append('Departure Airport: '+parsedJsonResults['flightinfo'][i]['timings'][j]['departureairport'] + ': '+ parsedJsonResults['flightinfo'][i]['timings'][j]['departuretime']+ '<br/>\-->
-           <!--Arrival Airport: '+parsedJsonResults['flightinfo'][i]['timings'][j]['arrivalairport'] + ': '+ parsedJsonResults['flightinfo'][i]['timings'][j]['arrivaltime']+ '<br/>');-->
+alert(Object.keys(jsonresults['hotelinfo']).length);
+<!--*********************************************Appendinging the hotel results***************************************************************-->
+    if(jsonresults.hasOwnProperty('hotelinfo'))
+    {
 
-           <!--}-->
+        var jsonResultlen = Object.keys(jsonresults['hotelinfo']).length;
+        var stringJsonResults = JSON.stringify(jsonresults);
+        var parsedJsonResults = JSON.parse(stringJsonResults);
+        var count = 1;
+
+        for(i=0; i<jsonResultlen; i++)
+        {
+            $('.hoteldata').append('<div class="box box-primary"><div class="box-header with-border">\
+                                     <h3 class="box-title">Hotel Deals '+ count +'</h3></div>\
+                                      <div class="box-body"><ul class="products-list product-list-in-box">\
+                                      <li class="item"><div class="product-img">\
+                                      <img src="{% static '/img/house.png' %}" alt="Product Image"></div>\
+                                      <div class="product-info"><a href="javascript::;" class="product-title">\
+                                      '+ parsedJsonResults['hotelinfo'][i]['hotelName'] + '<span class="label label-warning pull-right">\
+                                      Cost:'+ parsedJsonResults['hotelinfo'][i]['hotelPrice'] +'</span></a><span class="product-description">\
+                                      Rating:'+ parsedJsonResults['hotelinfo'][i]['hotelRating'] +'</span><span class="product-description">\
+                                      Location:' + parsedJsonResults['hotelinfo'][i]['hotelAddress'] + '</span></div></li></ul></div></div>');
+
 
             count = count + 1;
         }
      }
-     document.getElementById("loader").style.display = "none";
 
-<!--*********************************************End of the flight results***************************************************************-->
+<!--*********************************************End of the hotel results***************************************************************-->
+ document.getElementById("loader").style.display = "none"; //Stop the spinner
 
 
  console.log(jsonresults); // another sanity check
@@ -296,6 +319,35 @@ function startDictation() {
             count = count + 1;
         }
      }
+
+     <!--*********************************************Appendinging the hotel results***************************************************************-->
+    if(jsonresults.hasOwnProperty('hotelinfo'))
+    {
+
+        var jsonResultlen = Object.keys(jsonresults['hotelinfo']).length;
+        var stringJsonResults = JSON.stringify(jsonresults);
+        var parsedJsonResults = JSON.parse(stringJsonResults);
+        var count = 1;
+
+        for(i=0; i<jsonResultlen; i++)
+        {
+            $('.hoteldata').append('<div class="box box-primary"><div class="box-header with-border">\
+                                     <h3 class="box-title">Hotel Deals</h3></div>\
+                                      <div class="box-body"><ul class="products-list product-list-in-box">\
+                                      <li class="item"><div class="product-img">\
+                                      <img src="{% static '/img/house.png' %}" alt="Product Image"></div>\
+                                      <div class="product-info"><a href="javascript::;" class="product-title">\
+                                      '+ parsedJsonResults['hotelinfo'][i]['hotelName'] + '<span class="label label-warning pull-right">\
+                                      Cost:'+ parsedJsonResults['hotelinfo'][i]['hotelPrice'] +'</span></a>span class="product-description">\
+                                      Rating:'+ parsedJsonResults['hotelinfo'][i]['hotelRating'] +'</span><span class="product-description">\
+                                      Location:' + parsedJsonResults['hotelinfo'][i]['hotelAddress'] + '</span></div></li></ul></div></div>');
+
+            count = count + 1;
+        }
+     }
+
+<!--*********************************************End of the hotel results***************************************************************-->
+
 
       } //Ending voice recognition
         });

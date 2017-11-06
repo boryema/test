@@ -4,7 +4,7 @@ import voicerecogition
 from django.shortcuts import render
 from django.http import JsonResponse
 
-from travelagent import wordmanipulator, searchairport, scraper
+from travelagent import wordmanipulator, searchairport, scraper, hotel
 from .forms import SendConversation
 
 
@@ -89,12 +89,13 @@ def conversation(request):
 #This is Checking the End of the conversation to begin processing the air ticket
                     if(agentResponse==""):
                         agentResponse = "Please I will suggest cheaper flights to your destination"
-                    if(sentmessage in {"Okay", "Please do"}):
+                    if(sentmessage in {"Okay", "Please do", "Yes"}):
                     #Pick all the responses from the user
                     #Then format to get the parameters
                         sentence = []
                         destinationAirportCode = ''
                         airportname = ''
+                        country = ""
                         with open("questions.txt", "r+") as file:
                             extractedLines = file.readlines()
                             questionEnding = set('?')
@@ -114,6 +115,7 @@ def conversation(request):
                         if (len(destinationresults) != 0):
                             airportname = destinationresults['airportname']
                             destinationAirportCode =  destinationresults['airportcode']
+                            country = destinationresults["country"]
                         else:
                             print 'There are no airports selected'
 
@@ -121,20 +123,39 @@ def conversation(request):
 
                         print "AirportName:{0} \nAirportCode:{1} \nTravel Date: {2} ".format(airportname, destinationAirportCode, departureDate)
 
-                        scraped_data = scraper.scrapeTheInformation("ICN", destinationAirportCode, departureDate)
+                        #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+                        if(sentmessage =="Okay"): #This is to scrape the flights
+                            scraped_data = scraper.scrapeTheInformation("ICN", destinationAirportCode, departureDate)
+
+                        elif(sentmessage == "Yes"): #This is to scrape the hotels
+                            #Assuming the plane lands the next day then
+                            #CheckinDate will be departureDate + 1
+                            checkInDate = wordmanipulator.formatDate(departureDate)
+                            # Increase the day by 2s
+                            checkOutDate = wordmanipulator.increaseThisDayByTwoDays(checkInDate)
+
+                            scraped_data = hotel.scrapeHotels(country, checkInDate, checkOutDate   )
+                            print "++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++"
+                        #+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
             else:
                 calledceslea = calledcesleainitial
 
-
-            if len(scraped_data)== 0:
+            context = {}
+            if len(scraped_data) == 0:
                 # ################## Processing agent response ends here##############
                 data = {"textedmessage": sentmessage, "time": sentime, 'agentresponse':agentResponse, "calledceslea": calledceslea }
                 return JsonResponse(data)
             ###This is to print the scraped data finally after the conversation is made
             else:
-                context = {"flightinfo":scraped_data}
 
-                print context
+                # The conditions are to seperate which context to select either scraped flight data or scraped hotel data
+                if(sentmessage == "Okay"):
+                    context = {'flightinfo':scraped_data}
+                if(sentmessage == "Yes"):
+                    context = {'hotelinfo': scraped_data}
+
+                print  context
                 return JsonResponse(context)
 
             # Get goes here

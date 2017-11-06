@@ -19,13 +19,13 @@ def checkingForNonEmptyList(url):
 
         if not lenghtOfjson_data_xpath:
             testingValue = 1
-            waitTenSeconds()
+            waitingSeconds(15)
             print ("List is Empty")
         else:
             testingValue = 0
-            print ("List is NOt Empty")
+            print ("List is not Empty")
 
     return json_data_xpath
 
-def waitTenSeconds():
-    time.sleep(15)
+def waitingSeconds(seconds):
+    time.sleep(seconds)

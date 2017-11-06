@@ -1,4 +1,5 @@
-import datetime
+from datetime import datetime, timedelta
+
 import nltk
 import re
 
@@ -46,11 +47,18 @@ def formatFlightDate(strDate):
 
     return formatdate
 
-# def formatDate(strDate):
-#     split = re.findall('\d+', strDate)
-#     strDate = split[1]+"/"+split[0]+"/"+split[2]
-#     formatdate = datetime.datetime.strptime(strDate,'%m/%d/%Y').strftime('%Y.%m.%d')
-#
-#     return formatdate
+def formatDate(strDate):
+    split = re.findall('\d+', strDate)
+    strDate = split[1]+"/"+split[0]+"/"+split[2]
+
+    formatdate = datetime.strptime(strDate,'%d/%m/%Y').strftime('%Y.%m.%d')
+
+    return formatdate
 
 
+def increaseThisDayByTwoDays(strDate):
+    date = datetime.strptime(strDate,'%Y.%m.%d')
+    modifiedDate = date + timedelta(days=3)
+    increasedDateByThree = datetime.strftime(modifiedDate,'%Y.%m.%d')
+
+    return increasedDateByThree

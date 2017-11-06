@@ -8,6 +8,7 @@ def searchairportdata(mystr):
     results = {}
     airportname = ""
     airportcode = ""
+    airportcountrylocation = ""
     MYDIR = os.path.dirname(__file__)
 
     with open(os.path.join(MYDIR, 'airport/final_airports.txt'), 'r+') as inF:
@@ -31,6 +32,7 @@ def searchairportdata(mystr):
             #When only one airport selected
             results.update({"airportname": airportname})
             results.update({"airportcode": airportcode})
+            results.update({"country": airportcountrylocation})
         elif (airportsNumber == 0):
             results = results
 

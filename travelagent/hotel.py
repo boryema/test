@@ -34,13 +34,14 @@ def scrapeHotels(destination, checkIn, checkOut):
         # print "Hotel Rating".format(data['searchResults']['retailHotelModels'][i]['hotelStarRating']) + "\n"
         # print "Location {0}".format(address) + "\n"
         # print "Hotel address {0}".format(hotel.pickExactHotelImageAddress(data['searchResults']['retailHotelModels'][i]["infositeUrl"])) + "\n"
+
+
     return allHotels
 
 
 def writingToAfile(fileName, content):
     with open(fileName, "w+") as file:
         file.writelines(str(content))
-
 
 def pickLatLongFromALocation(location):
     # api-endpoint for picking latitude and longitude
